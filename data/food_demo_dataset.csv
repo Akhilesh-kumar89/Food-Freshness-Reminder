@@ -1,0 +1,2001 @@
+food_category,storage_location,food_condition,days_stored,has_expiry_date,days_to_expiry,reminder_status
+Dairy,Room temperature,Fresh / Normal,0.114,0,,Check Food
+Seafood,Refrigerator,Looks or smells unusual,2.436,0,,Check Food
+Fruits,Refrigerator,Opened,4.153,0,,No Reminder Due
+Beverages,Freezer,Thawed,63.852,1,-4.0,Date Passed
+Vegetables,Room temperature,Thawed,4.043,0,,Check Food
+Dairy,Room temperature,Looks or smells unusual,0.119,0,,Check Food
+Cooked Leftovers,Room temperature,Opened,0.006,1,-1.0,Date Passed
+Beverages,Room temperature,Cooked / Prepared,29.025,1,14.0,No Reminder Due
+Eggs,Refrigerator,Fresh / Normal,4.365,1,4.0,No Reminder Due
+Cooked Leftovers,Refrigerator,Cooked / Prepared,2.798,0,,No Reminder Due
+Vegetables,Room temperature,Fresh / Normal,5.326,0,,Check Food
+Packaged / Pantry,Freezer,Fresh / Normal,196.559,1,12.0,Check Food
+Seafood,Room temperature,Cooked / Prepared,0.089,0,,Check Food
+Dairy,Refrigerator,Opened,6.37,1,11.0,Reminder Due Soon
+Seafood,Refrigerator,Cooked / Prepared,1.508,1,-4.0,Date Passed
+Beverages,Freezer,Opened,80.526,1,8.0,Reminder Due Soon
+Vegetables,Refrigerator,Fresh / Normal,2.403,1,15.0,No Reminder Due
+Packaged / Pantry,Refrigerator,Fresh / Normal,3.151,1,-1.0,Date Passed
+Eggs,Freezer,Opened,225.763,0,,Check Food
+Eggs,Freezer,Thawed,48.088,1,-3.0,Date Passed
+Dairy,Room temperature,Opened,0.022,1,10.0,No Reminder Due
+Other,Refrigerator,Cooked / Prepared,13.385,1,0.0,Reminder Due Soon
+Cooked Leftovers,Room temperature,Fresh / Normal,0.012,1,8.0,No Reminder Due
+Cooked Leftovers,Room temperature,Thawed,0.093,1,11.0,Check Food
+Other,Refrigerator,Cooked / Prepared,13.481,1,11.0,No Reminder Due
+Dairy,Refrigerator,Thawed,1.458,1,10.0,No Reminder Due
+Cooked Leftovers,Room temperature,Fresh / Normal,0.114,0,,Check Food
+Vegetables,Freezer,Fresh / Normal,240.887,1,10.0,Check Food
+Meat & Poultry,Freezer,Fresh / Normal,119.753,1,-2.0,Date Passed
+Fruits,Refrigerator,Fresh / Normal,1.158,1,1.0,Reminder Due Soon
+Beverages,Refrigerator,Looks or smells unusual,6.508,1,7.0,Check Food
+Vegetables,Refrigerator,Looks or smells unusual,5.402,0,,Check Food
+Dairy,Refrigerator,Opened,5.496,0,,Reminder Due Soon
+Dairy,Refrigerator,Opened,2.99,1,7.0,No Reminder Due
+Fruits,Freezer,Fresh / Normal,8.299,0,,No Reminder Due
+Dairy,Room temperature,Fresh / Normal,0.074,1,8.0,Reminder Due Soon
+Bakery,Refrigerator,Cooked / Prepared,8.142,0,,Check Food
+Cooked Leftovers,Refrigerator,Thawed,0.737,1,-3.0,Date Passed
+Meat & Poultry,Freezer,Fresh / Normal,238.979,0,,Check Food
+Other,Refrigerator,Looks or smells unusual,8.728,1,14.0,Check Food
+Seafood,Room temperature,Fresh / Normal,0.006,1,14.0,No Reminder Due
+Other,Room temperature,Thawed,22.458,0,,No Reminder Due
+Seafood,Room temperature,Opened,0.042,0,,No Reminder Due
+Cooked Leftovers,Freezer,Fresh / Normal,13.603,0,,No Reminder Due
+Eggs,Refrigerator,Looks or smells unusual,8.097,1,-4.0,Date Passed
+Packaged / Pantry,Room temperature,Fresh / Normal,17.981,0,,No Reminder Due
+Meat & Poultry,Refrigerator,Fresh / Normal,2.488,0,,Check Food
+Seafood,Freezer,Fresh / Normal,2.007,1,5.0,No Reminder Due
+Cooked Leftovers,Refrigerator,Cooked / Prepared,0.78,1,14.0,No Reminder Due
+Bakery,Room temperature,Fresh / Normal,5.146,0,,Check Food
+Vegetables,Refrigerator,Fresh / Normal,1.386,0,,No Reminder Due
+Beverages,Refrigerator,Fresh / Normal,5.472,0,,Reminder Due Soon
+Eggs,Refrigerator,Fresh / Normal,31.074,1,15.0,Check Food
+Vegetables,Freezer,Opened,40.665,1,10.0,No Reminder Due
+Eggs,Refrigerator,Opened,31.35,0,,Check Food
+Other,Freezer,Cooked / Prepared,0.535,1,4.0,No Reminder Due
+Cooked Leftovers,Room temperature,Cooked / Prepared,0.031,1,11.0,No Reminder Due
+Vegetables,Room temperature,Opened,2.64,1,13.0,No Reminder Due
+Other,Freezer,Cooked / Prepared,26.025,1,6.0,No Reminder Due
+Seafood,Refrigerator,Cooked / Prepared,2.613,1,-1.0,Date Passed
+Packaged / Pantry,Refrigerator,Opened,1.637,0,,No Reminder Due
+Cooked Leftovers,Refrigerator,Fresh / Normal,5.894,1,-2.0,Date Passed
+Cooked Leftovers,Freezer,Fresh / Normal,3.045,1,-2.0,Date Passed
+Seafood,Refrigerator,Fresh / Normal,1.892,0,,Reminder Due Soon
+Beverages,Freezer,Fresh / Normal,72.652,0,,Reminder Due Soon
+Beverages,Room temperature,Fresh / Normal,5.445,1,-1.0,Date Passed
+Seafood,Freezer,Fresh / Normal,7.093,1,6.0,No Reminder Due
+Other,Freezer,Fresh / Normal,25.004,1,3.0,No Reminder Due
+Other,Room temperature,Thawed,27.08,0,,No Reminder Due
+Meat & Poultry,Refrigerator,Cooked / Prepared,2.056,0,,Check Food
+Beverages,Room temperature,Opened,15.427,0,,No Reminder Due
+Meat & Poultry,Room temperature,Fresh / Normal,0.085,1,4.0,Check Food
+Dairy,Refrigerator,Opened,4.669,1,2.0,Reminder Due Soon
+Eggs,Freezer,Fresh / Normal,109.286,0,,No Reminder Due
+Eggs,Refrigerator,Looks or smells unusual,30.789,1,1.0,Check Food
+Beverages,Refrigerator,Opened,9.504,0,,Check Food
+Seafood,Room temperature,Opened,0.084,1,-2.0,Date Passed
+Beverages,Refrigerator,Cooked / Prepared,9.64,1,-1.0,Date Passed
+Other,Freezer,Fresh / Normal,21.771,1,5.0,No Reminder Due
+Other,Room temperature,Looks or smells unusual,24.027,1,-3.0,Date Passed
+Eggs,Room temperature,Cooked / Prepared,0.126,1,10.0,Check Food
+Vegetables,Refrigerator,Opened,1.918,1,-4.0,Date Passed
+Dairy,Freezer,Opened,75.259,0,,Reminder Due Soon
+Other,Room temperature,Opened,17.988,0,,No Reminder Due
+Packaged / Pantry,Refrigerator,Fresh / Normal,0.982,0,,No Reminder Due
+Beverages,Freezer,Cooked / Prepared,96.657,1,10.0,Check Food
+Packaged / Pantry,Room temperature,Fresh / Normal,10.926,1,11.0,No Reminder Due
+Cooked Leftovers,Refrigerator,Fresh / Normal,5.991,1,10.0,Check Food
+Eggs,Refrigerator,Opened,31.454,0,,Check Food
+Beverages,Freezer,Fresh / Normal,142.075,0,,Check Food
+Fruits,Room temperature,Fresh / Normal,6.804,0,,Check Food
+Other,Refrigerator,Opened,20.583,1,-3.0,Date Passed
+Meat & Poultry,Freezer,Thawed,85.063,1,1.0,Reminder Due Soon
+Eggs,Refrigerator,Thawed,2.5,1,1.0,Check Food
+Eggs,Room temperature,Thawed,0.038,0,,No Reminder Due
+Dairy,Refrigerator,Looks or smells unusual,7.456,0,,Check Food
+Vegetables,Refrigerator,Thawed,0.093,1,4.0,No Reminder Due
+Meat & Poultry,Room temperature,Fresh / Normal,0.121,0,,Check Food
+Beverages,Room temperature,Fresh / Normal,1.55,0,,No Reminder Due
+Dairy,Room temperature,Fresh / Normal,0.113,1,11.0,Check Food
+Bakery,Room temperature,Looks or smells unusual,4.941,0,,Check Food
+Packaged / Pantry,Room temperature,Fresh / Normal,6.053,1,9.0,No Reminder Due
+Fruits,Freezer,Opened,326.834,1,10.0,Check Food
+Beverages,Room temperature,Fresh / Normal,8.123,0,,No Reminder Due
+Fruits,Room temperature,Opened,0.436,0,,No Reminder Due
+Dairy,Refrigerator,Thawed,2.271,1,2.0,Check Food
+Meat & Poultry,Room temperature,Looks or smells unusual,0.061,0,,Check Food
+Seafood,Refrigerator,Opened,0.464,0,,No Reminder Due
+Bakery,Freezer,Opened,100.768,0,,Check Food
+Cooked Leftovers,Freezer,Fresh / Normal,73.203,1,14.0,Reminder Due Soon
+Other,Freezer,Fresh / Normal,4.023,1,-4.0,Date Passed
+Cooked Leftovers,Freezer,Opened,91.387,1,3.0,Check Food
+Meat & Poultry,Freezer,Fresh / Normal,169.432,1,14.0,Reminder Due Soon
+Dairy,Refrigerator,Opened,2.527,1,3.0,No Reminder Due
+Cooked Leftovers,Freezer,Cooked / Prepared,93.305,0,,Check Food
+Vegetables,Refrigerator,Cooked / Prepared,6.15,1,6.0,Reminder Due Soon
+Vegetables,Freezer,Opened,282.895,0,,Check Food
+Cooked Leftovers,Refrigerator,Opened,3.33,0,,Reminder Due Soon
+Other,Refrigerator,Thawed,14.824,1,1.0,Reminder Due Soon
+Dairy,Refrigerator,Thawed,0.178,1,6.0,No Reminder Due
+Cooked Leftovers,Freezer,Fresh / Normal,106.948,1,-2.0,Date Passed
+Eggs,Room temperature,Thawed,0.05,1,0.0,Reminder Due Soon
+Vegetables,Room temperature,Fresh / Normal,6.134,0,,Check Food
+Meat & Poultry,Freezer,Fresh / Normal,198.048,0,,Check Food
+Beverages,Room temperature,Opened,0.322,1,3.0,No Reminder Due
+Beverages,Freezer,Fresh / Normal,23.891,0,,No Reminder Due
+Other,Room temperature,Opened,25.172,0,,No Reminder Due
+Bakery,Refrigerator,Fresh / Normal,4.397,1,12.0,No Reminder Due
+Beverages,Refrigerator,Opened,1.688,1,4.0,No Reminder Due
+Seafood,Room temperature,Fresh / Normal,0.031,1,-1.0,Date Passed
+Fruits,Room temperature,Opened,0.673,1,7.0,No Reminder Due
+Packaged / Pantry,Room temperature,Opened,19.474,0,,No Reminder Due
+Beverages,Room temperature,Fresh / Normal,10.998,1,13.0,No Reminder Due
+Cooked Leftovers,Room temperature,Opened,0.102,0,,Check Food
+Packaged / Pantry,Freezer,Thawed,169.092,0,,Reminder Due Soon
+Fruits,Freezer,Opened,204.062,1,2.0,Reminder Due Soon
+Dairy,Freezer,Thawed,90.84,1,-5.0,Date Passed
+Cooked Leftovers,Refrigerator,Fresh / Normal,5.936,1,-1.0,Date Passed
+Eggs,Refrigerator,Opened,0.246,1,-2.0,Date Passed
+Bakery,Freezer,Looks or smells unusual,89.332,1,8.0,Check Food
+Other,Room temperature,Thawed,21.621,0,,No Reminder Due
+Vegetables,Room temperature,Thawed,0.73,0,,No Reminder Due
+Beverages,Freezer,Opened,94.191,0,,Check Food
+Meat & Poultry,Room temperature,Fresh / Normal,0.098,0,,Check Food
+Bakery,Freezer,Fresh / Normal,5.896,0,,No Reminder Due
+Other,Freezer,Looks or smells unusual,13.949,0,,Check Food
+Seafood,Freezer,Cooked / Prepared,12.214,1,6.0,No Reminder Due
+Beverages,Refrigerator,Thawed,0.118,1,14.0,No Reminder Due
+Other,Refrigerator,Fresh / Normal,20.259,0,,No Reminder Due
+Bakery,Room temperature,Thawed,4.732,0,,Check Food
+Eggs,Refrigerator,Fresh / Normal,20.896,0,,Reminder Due Soon
+Eggs,Refrigerator,Opened,22.757,1,10.0,Check Food
+Eggs,Room temperature,Cooked / Prepared,0.032,0,,No Reminder Due
+Packaged / Pantry,Freezer,Thawed,86.096,1,2.0,Reminder Due Soon
+Eggs,Freezer,Fresh / Normal,255.329,1,9.0,Check Food
+Dairy,Room temperature,Cooked / Prepared,0.108,0,,Check Food
+Cooked Leftovers,Freezer,Fresh / Normal,19.702,1,1.0,Reminder Due Soon
+Seafood,Room temperature,Cooked / Prepared,0.079,1,5.0,Reminder Due Soon
+Other,Refrigerator,Fresh / Normal,10.961,1,5.0,No Reminder Due
+Cooked Leftovers,Refrigerator,Fresh / Normal,2.901,0,,No Reminder Due
+Packaged / Pantry,Freezer,Fresh / Normal,276.252,0,,Check Food
+Fruits,Freezer,Fresh / Normal,344.447,1,6.0,Check Food
+Cooked Leftovers,Room temperature,Opened,0.099,1,14.0,Check Food
+Vegetables,Freezer,Fresh / Normal,92.687,1,-2.0,Date Passed
+Meat & Poultry,Freezer,Fresh / Normal,161.709,0,,Reminder Due Soon
+Packaged / Pantry,Freezer,Fresh / Normal,137.162,0,,Reminder Due Soon
+Beverages,Freezer,Thawed,129.968,0,,Check Food
+Bakery,Freezer,Opened,14.673,0,,No Reminder Due
+Seafood,Refrigerator,Opened,1.386,1,15.0,No Reminder Due
+Other,Room temperature,Fresh / Normal,1.232,1,7.0,No Reminder Due
+Dairy,Room temperature,Opened,0.042,1,4.0,No Reminder Due
+Packaged / Pantry,Refrigerator,Fresh / Normal,0.678,0,,No Reminder Due
+Eggs,Refrigerator,Fresh / Normal,13.243,1,-2.0,Date Passed
+Dairy,Refrigerator,Thawed,0.004,1,-3.0,Date Passed
+Cooked Leftovers,Freezer,Fresh / Normal,62.111,0,,No Reminder Due
+Fruits,Room temperature,Fresh / Normal,2.58,1,14.0,No Reminder Due
+Fruits,Room temperature,Fresh / Normal,2.646,0,,No Reminder Due
+Bakery,Freezer,Opened,102.464,1,-4.0,Date Passed
+Vegetables,Refrigerator,Fresh / Normal,10.291,1,14.0,Check Food
+Seafood,Room temperature,Fresh / Normal,0.083,1,-5.0,Date Passed
+Dairy,Freezer,Opened,122.319,1,0.0,Check Food
+Packaged / Pantry,Freezer,Fresh / Normal,222.606,0,,Check Food
+Vegetables,Refrigerator,Thawed,1.454,0,,No Reminder Due
+Seafood,Room temperature,Fresh / Normal,0.108,1,15.0,Check Food
+Vegetables,Room temperature,Opened,1.385,1,8.0,No Reminder Due
+Cooked Leftovers,Room temperature,Fresh / Normal,0.046,1,-4.0,Date Passed
+Bakery,Refrigerator,Cooked / Prepared,7.931,0,,Check Food
+Packaged / Pantry,Refrigerator,Thawed,1.9,1,11.0,Reminder Due Soon
+Meat & Poultry,Room temperature,Fresh / Normal,0.068,0,,Reminder Due Soon
+Bakery,Refrigerator,Fresh / Normal,11.123,1,-5.0,Date Passed
+Eggs,Refrigerator,Thawed,2.817,1,-2.0,Date Passed
+Vegetables,Refrigerator,Fresh / Normal,6.659,1,0.0,Reminder Due Soon
+Cooked Leftovers,Freezer,Thawed,2.615,1,-2.0,Date Passed
+Seafood,Room temperature,Fresh / Normal,0.081,1,13.0,Reminder Due Soon
+Fruits,Freezer,Cooked / Prepared,278.696,1,0.0,Check Food
+Beverages,Room temperature,Fresh / Normal,15.437,1,15.0,No Reminder Due
+Dairy,Room temperature,Opened,0.054,1,11.0,No Reminder Due
+Packaged / Pantry,Freezer,Cooked / Prepared,43.02,0,,No Reminder Due
+Eggs,Refrigerator,Fresh / Normal,28.862,0,,Check Food
+Meat & Poultry,Refrigerator,Opened,2.347,0,,Check Food
+Seafood,Freezer,Opened,106.807,0,,Check Food
+Eggs,Freezer,Opened,30.129,0,,No Reminder Due
+Beverages,Room temperature,Cooked / Prepared,2.996,1,13.0,No Reminder Due
+Eggs,Room temperature,Fresh / Normal,0.131,1,11.0,Check Food
+Bakery,Room temperature,Fresh / Normal,2.042,0,,No Reminder Due
+Packaged / Pantry,Freezer,Fresh / Normal,173.311,0,,Reminder Due Soon
+Vegetables,Freezer,Fresh / Normal,144.847,1,4.0,No Reminder Due
+Beverages,Refrigerator,Fresh / Normal,7.667,1,-5.0,Date Passed
+Other,Room temperature,Fresh / Normal,22.605,0,,No Reminder Due
+Seafood,Freezer,Fresh / Normal,26.75,1,0.0,Reminder Due Soon
+Dairy,Freezer,Fresh / Normal,6.505,1,-4.0,Date Passed
+Other,Refrigerator,Opened,3.321,1,8.0,No Reminder Due
+Meat & Poultry,Refrigerator,Cooked / Prepared,2.805,0,,Check Food
+Meat & Poultry,Room temperature,Looks or smells unusual,0.127,1,3.0,Check Food
+Meat & Poultry,Room temperature,Opened,0.013,0,,No Reminder Due
+Cooked Leftovers,Room temperature,Opened,0.022,1,7.0,No Reminder Due
+Eggs,Refrigerator,Thawed,1.87,0,,Reminder Due Soon
+Beverages,Refrigerator,Fresh / Normal,4.534,0,,No Reminder Due
+Dairy,Room temperature,Fresh / Normal,0.126,1,-1.0,Date Passed
+Packaged / Pantry,Room temperature,Fresh / Normal,25.394,1,-3.0,Date Passed
+Bakery,Freezer,Fresh / Normal,35.317,0,,No Reminder Due
+Meat & Poultry,Room temperature,Thawed,0.045,1,10.0,No Reminder Due
+Seafood,Refrigerator,Fresh / Normal,3.008,0,,Check Food
+Seafood,Refrigerator,Opened,1.57,1,11.0,Reminder Due Soon
+Eggs,Freezer,Fresh / Normal,37.945,1,-2.0,Date Passed
+Other,Refrigerator,Looks or smells unusual,4.907,1,5.0,Check Food
+Other,Refrigerator,Fresh / Normal,0.902,1,-2.0,Date Passed
+Other,Refrigerator,Opened,13.95,1,1.0,Reminder Due Soon
+Fruits,Freezer,Fresh / Normal,379.624,0,,Check Food
+Beverages,Room temperature,Opened,4.586,0,,No Reminder Due
+Bakery,Freezer,Fresh / Normal,49.306,0,,No Reminder Due
+Bakery,Freezer,Cooked / Prepared,114.283,1,-1.0,Date Passed
+Other,Freezer,Opened,0.069,0,,No Reminder Due
+Eggs,Refrigerator,Fresh / Normal,15.398,1,0.0,Reminder Due Soon
+Eggs,Refrigerator,Opened,13.202,0,,No Reminder Due
+Bakery,Refrigerator,Cooked / Prepared,5.164,0,,No Reminder Due
+Bakery,Freezer,Opened,136.809,1,6.0,Check Food
+Meat & Poultry,Refrigerator,Thawed,0.129,1,9.0,No Reminder Due
+Cooked Leftovers,Room temperature,Cooked / Prepared,0.132,1,10.0,Check Food
+Bakery,Refrigerator,Looks or smells unusual,4.103,0,,Check Food
+Cooked Leftovers,Freezer,Opened,103.649,1,3.0,Check Food
+Bakery,Room temperature,Fresh / Normal,4.141,1,9.0,Check Food
+Eggs,Freezer,Fresh / Normal,26.416,0,,No Reminder Due
+Eggs,Refrigerator,Cooked / Prepared,0.664,1,8.0,No Reminder Due
+Beverages,Refrigerator,Cooked / Prepared,9.639,1,14.0,Check Food
+Bakery,Refrigerator,Fresh / Normal,1.553,1,-3.0,Date Passed
+Cooked Leftovers,Room temperature,Thawed,0.027,1,6.0,No Reminder Due
+Bakery,Room temperature,Opened,1.633,0,,No Reminder Due
+Other,Refrigerator,Looks or smells unusual,11.99,0,,Check Food
+Cooked Leftovers,Freezer,Fresh / Normal,126.015,0,,Check Food
+Dairy,Freezer,Looks or smells unusual,122.974,1,4.0,Check Food
+Packaged / Pantry,Freezer,Opened,182.074,1,11.0,Check Food
+Seafood,Freezer,Looks or smells unusual,121.438,0,,Check Food
+Other,Refrigerator,Cooked / Prepared,22.878,1,10.0,No Reminder Due
+Vegetables,Freezer,Fresh / Normal,247.611,1,1.0,Check Food
+Seafood,Freezer,Fresh / Normal,31.515,0,,No Reminder Due
+Vegetables,Refrigerator,Fresh / Normal,0.084,1,13.0,No Reminder Due
+Eggs,Room temperature,Thawed,0.018,0,,No Reminder Due
+Vegetables,Refrigerator,Fresh / Normal,11.184,1,14.0,Check Food
+Meat & Poultry,Refrigerator,Opened,2.985,0,,Check Food
+Eggs,Freezer,Fresh / Normal,227.733,1,-4.0,Date Passed
+Fruits,Room temperature,Cooked / Prepared,0.895,0,,No Reminder Due
+Vegetables,Refrigerator,Fresh / Normal,6.184,1,1.0,Reminder Due Soon
+Bakery,Room temperature,Looks or smells unusual,6.396,1,8.0,Check Food
+Meat & Poultry,Refrigerator,Cooked / Prepared,3.125,1,1.0,Check Food
+Fruits,Refrigerator,Fresh / Normal,7.529,1,3.0,Check Food
+Cooked Leftovers,Room temperature,Thawed,0.109,1,3.0,Check Food
+Cooked Leftovers,Refrigerator,Thawed,1.572,0,,Reminder Due Soon
+Beverages,Refrigerator,Thawed,0.308,1,-2.0,Date Passed
+Cooked Leftovers,Freezer,Fresh / Normal,7.604,1,-4.0,Date Passed
+Eggs,Room temperature,Fresh / Normal,0.087,0,,Check Food
+Beverages,Freezer,Fresh / Normal,123.955,0,,Check Food
+Meat & Poultry,Freezer,Thawed,26.714,1,6.0,No Reminder Due
+Vegetables,Room temperature,Fresh / Normal,4.815,1,6.0,Check Food
+Beverages,Room temperature,Fresh / Normal,6.576,1,4.0,No Reminder Due
+Bakery,Room temperature,Fresh / Normal,0.55,1,-2.0,Date Passed
+Meat & Poultry,Refrigerator,Fresh / Normal,3.169,1,12.0,Check Food
+Other,Freezer,Fresh / Normal,11.788,0,,No Reminder Due
+Other,Room temperature,Thawed,5.769,1,4.0,No Reminder Due
+Bakery,Room temperature,Cooked / Prepared,3.625,1,1.0,Reminder Due Soon
+Eggs,Room temperature,Cooked / Prepared,0.004,1,14.0,No Reminder Due
+Vegetables,Freezer,Fresh / Normal,160.764,0,,No Reminder Due
+Fruits,Refrigerator,Opened,4.316,1,12.0,No Reminder Due
+Meat & Poultry,Freezer,Fresh / Normal,162.459,0,,Reminder Due Soon
+Packaged / Pantry,Refrigerator,Fresh / Normal,2.378,0,,No Reminder Due
+Beverages,Freezer,Fresh / Normal,128.198,1,12.0,Check Food
+Fruits,Room temperature,Fresh / Normal,1.721,1,14.0,No Reminder Due
+Fruits,Refrigerator,Cooked / Prepared,2.398,1,3.0,No Reminder Due
+Seafood,Refrigerator,Fresh / Normal,0.431,0,,No Reminder Due
+Eggs,Refrigerator,Fresh / Normal,1.857,1,1.0,Reminder Due Soon
+Cooked Leftovers,Refrigerator,Opened,1.314,0,,No Reminder Due
+Dairy,Room temperature,Fresh / Normal,0.014,1,4.0,No Reminder Due
+Vegetables,Freezer,Thawed,289.64,0,,Check Food
+Meat & Poultry,Room temperature,Looks or smells unusual,0.006,1,6.0,Check Food
+Dairy,Refrigerator,Looks or smells unusual,6.461,0,,Check Food
+Other,Refrigerator,Looks or smells unusual,14.959,1,1.0,Check Food
+Other,Room temperature,Fresh / Normal,17.543,1,2.0,Reminder Due Soon
+Bakery,Refrigerator,Fresh / Normal,1.157,0,,No Reminder Due
+Dairy,Freezer,Fresh / Normal,58.848,1,11.0,No Reminder Due
+Vegetables,Freezer,Looks or smells unusual,150.333,1,14.0,Check Food
+Seafood,Freezer,Opened,66.502,0,,No Reminder Due
+Cooked Leftovers,Freezer,Fresh / Normal,49.785,1,6.0,No Reminder Due
+Meat & Poultry,Refrigerator,Cooked / Prepared,1.245,1,-2.0,Date Passed
+Beverages,Freezer,Cooked / Prepared,37.069,0,,No Reminder Due
+Other,Room temperature,Opened,20.068,1,8.0,No Reminder Due
+Other,Room temperature,Looks or smells unusual,17.369,1,3.0,Check Food
+Vegetables,Refrigerator,Cooked / Prepared,6.302,1,2.0,Reminder Due Soon
+Beverages,Refrigerator,Opened,5.216,1,12.0,No Reminder Due
+Vegetables,Room temperature,Fresh / Normal,5.624,1,12.0,Check Food
+Vegetables,Refrigerator,Fresh / Normal,8.679,1,0.0,Check Food
+Seafood,Freezer,Looks or smells unusual,138.756,0,,Check Food
+Packaged / Pantry,Refrigerator,Opened,9.835,1,-3.0,Date Passed
+Meat & Poultry,Freezer,Opened,162.545,0,,Reminder Due Soon
+Beverages,Room temperature,Fresh / Normal,11.1,1,7.0,No Reminder Due
+Meat & Poultry,Refrigerator,Cooked / Prepared,2.681,1,9.0,Check Food
+Cooked Leftovers,Room temperature,Fresh / Normal,0.069,1,13.0,Reminder Due Soon
+Eggs,Room temperature,Fresh / Normal,0.089,1,11.0,Check Food
+Vegetables,Refrigerator,Opened,5.849,1,-5.0,Date Passed
+Eggs,Refrigerator,Fresh / Normal,11.563,1,5.0,No Reminder Due
+Other,Refrigerator,Thawed,29.233,1,3.0,No Reminder Due
+Vegetables,Freezer,Thawed,243.546,1,-3.0,Date Passed
+Eggs,Freezer,Opened,286.14,0,,Check Food
+Dairy,Freezer,Cooked / Prepared,43.454,0,,No Reminder Due
+Dairy,Freezer,Looks or smells unusual,120.597,1,-5.0,Date Passed
+Cooked Leftovers,Refrigerator,Thawed,0.498,1,-4.0,Date Passed
+Other,Room temperature,Fresh / Normal,13.35,1,6.0,No Reminder Due
+Meat & Poultry,Room temperature,Fresh / Normal,0.025,1,-1.0,Date Passed
+Other,Refrigerator,Thawed,21.235,0,,No Reminder Due
+Meat & Poultry,Refrigerator,Thawed,3.019,1,15.0,Check Food
+Other,Room temperature,Opened,16.305,0,,No Reminder Due
+Seafood,Room temperature,Cooked / Prepared,0.064,1,13.0,Reminder Due Soon
+Eggs,Refrigerator,Fresh / Normal,3.016,1,2.0,Reminder Due Soon
+Vegetables,Room temperature,Fresh / Normal,5.956,0,,Check Food
+Dairy,Refrigerator,Fresh / Normal,2.305,0,,No Reminder Due
+Packaged / Pantry,Refrigerator,Opened,10.485,0,,Check Food
+Dairy,Refrigerator,Fresh / Normal,1.72,1,-2.0,Date Passed
+Seafood,Refrigerator,Thawed,1.719,0,,Reminder Due Soon
+Vegetables,Room temperature,Thawed,3.954,0,,Reminder Due Soon
+Seafood,Freezer,Fresh / Normal,13.043,1,14.0,No Reminder Due
+Eggs,Freezer,Looks or smells unusual,108.953,0,,Check Food
+Meat & Poultry,Freezer,Fresh / Normal,92.371,0,,No Reminder Due
+Meat & Poultry,Room temperature,Fresh / Normal,0.03,0,,No Reminder Due
+Packaged / Pantry,Refrigerator,Looks or smells unusual,2.105,1,7.0,Check Food
+Fruits,Freezer,Opened,167.68,0,,No Reminder Due
+Fruits,Refrigerator,Opened,4.724,1,5.0,No Reminder Due
+Beverages,Freezer,Fresh / Normal,91.816,1,7.0,Check Food
+Other,Refrigerator,Thawed,14.267,1,4.0,No Reminder Due
+Beverages,Room temperature,Opened,23.453,1,4.0,No Reminder Due
+Bakery,Refrigerator,Opened,3.894,0,,No Reminder Due
+Packaged / Pantry,Room temperature,Looks or smells unusual,11.127,1,9.0,Check Food
+Vegetables,Room temperature,Opened,4.714,1,6.0,Check Food
+Seafood,Freezer,Fresh / Normal,28.596,0,,No Reminder Due
+Beverages,Refrigerator,Thawed,0.872,1,10.0,No Reminder Due
+Meat & Poultry,Room temperature,Fresh / Normal,0.026,1,1.0,Reminder Due Soon
+Fruits,Refrigerator,Cooked / Prepared,7.931,1,13.0,Check Food
+Beverages,Freezer,Opened,21.229,1,0.0,Reminder Due Soon
+Cooked Leftovers,Freezer,Opened,101.524,1,-3.0,Date Passed
+Eggs,Freezer,Cooked / Prepared,215.421,0,,Check Food
+Seafood,Freezer,Thawed,34.668,1,-2.0,Date Passed
+Meat & Poultry,Refrigerator,Fresh / Normal,0.771,0,,No Reminder Due
+Fruits,Refrigerator,Fresh / Normal,1.466,1,1.0,Reminder Due Soon
+Bakery,Refrigerator,Fresh / Normal,2.643,0,,No Reminder Due
+Dairy,Room temperature,Opened,0.086,0,,Check Food
+Vegetables,Room temperature,Opened,5.695,0,,Check Food
+Fruits,Room temperature,Opened,0.649,1,7.0,No Reminder Due
+Fruits,Freezer,Fresh / Normal,218.176,1,5.0,Reminder Due Soon
+Bakery,Room temperature,Fresh / Normal,1.441,0,,No Reminder Due
+Dairy,Room temperature,Looks or smells unusual,0.116,0,,Check Food
+Meat & Poultry,Refrigerator,Fresh / Normal,0.858,0,,No Reminder Due
+Vegetables,Room temperature,Fresh / Normal,3.565,1,-1.0,Date Passed
+Meat & Poultry,Refrigerator,Fresh / Normal,3.038,1,-1.0,Date Passed
+Dairy,Room temperature,Cooked / Prepared,0.026,1,-1.0,Date Passed
+Beverages,Room temperature,Thawed,4.202,0,,No Reminder Due
+Seafood,Room temperature,Fresh / Normal,0.037,0,,No Reminder Due
+Beverages,Freezer,Fresh / Normal,62.282,1,0.0,Reminder Due Soon
+Beverages,Room temperature,Cooked / Prepared,11.35,0,,No Reminder Due
+Packaged / Pantry,Refrigerator,Fresh / Normal,6.397,0,,Reminder Due Soon
+Packaged / Pantry,Refrigerator,Fresh / Normal,5.812,0,,Reminder Due Soon
+Beverages,Refrigerator,Fresh / Normal,8.367,1,-1.0,Date Passed
+Seafood,Refrigerator,Fresh / Normal,1.534,0,,Reminder Due Soon
+Seafood,Freezer,Cooked / Prepared,141.55,1,8.0,Check Food
+Bakery,Freezer,Looks or smells unusual,35.406,0,,Check Food
+Dairy,Room temperature,Fresh / Normal,0.062,1,-2.0,Date Passed
+Seafood,Freezer,Fresh / Normal,114.633,0,,Check Food
+Fruits,Freezer,Fresh / Normal,105.268,1,11.0,No Reminder Due
+Cooked Leftovers,Refrigerator,Looks or smells unusual,2.573,1,3.0,Check Food
+Packaged / Pantry,Freezer,Fresh / Normal,46.639,0,,No Reminder Due
+Eggs,Freezer,Fresh / Normal,264.21,0,,Check Food
+Beverages,Refrigerator,Fresh / Normal,0.566,0,,No Reminder Due
+Packaged / Pantry,Freezer,Opened,218.87,1,1.0,Check Food
+Meat & Poultry,Room temperature,Looks or smells unusual,0.097,1,-4.0,Date Passed
+Packaged / Pantry,Refrigerator,Cooked / Prepared,9.19,0,,Check Food
+Fruits,Freezer,Fresh / Normal,91.522,1,1.0,Reminder Due Soon
+Bakery,Freezer,Opened,56.895,0,,No Reminder Due
+Other,Room temperature,Fresh / Normal,22.096,0,,No Reminder Due
+Seafood,Freezer,Fresh / Normal,114.513,0,,Check Food
+Dairy,Room temperature,Thawed,0.131,1,2.0,Check Food
+Bakery,Freezer,Looks or smells unusual,13.508,1,4.0,Check Food
+Vegetables,Room temperature,Fresh / Normal,5.042,1,7.0,Check Food
+Other,Freezer,Fresh / Normal,23.106,1,13.0,No Reminder Due
+Seafood,Freezer,Cooked / Prepared,119.462,1,4.0,Check Food
+Seafood,Room temperature,Opened,0.066,1,9.0,Reminder Due Soon
+Eggs,Freezer,Thawed,8.897,1,3.0,No Reminder Due
+Other,Room temperature,Cooked / Prepared,7.728,0,,No Reminder Due
+Dairy,Refrigerator,Thawed,0.691,1,10.0,No Reminder Due
+Eggs,Room temperature,Fresh / Normal,0.031,1,2.0,Reminder Due Soon
+Other,Freezer,Opened,22.32,1,9.0,No Reminder Due
+Meat & Poultry,Freezer,Fresh / Normal,184.446,1,-5.0,Date Passed
+Packaged / Pantry,Room temperature,Fresh / Normal,17.358,1,12.0,No Reminder Due
+Seafood,Room temperature,Thawed,0.123,1,12.0,Check Food
+Meat & Poultry,Refrigerator,Fresh / Normal,0.384,1,-1.0,Date Passed
+Dairy,Room temperature,Fresh / Normal,0.018,0,,No Reminder Due
+Beverages,Freezer,Cooked / Prepared,90.851,0,,Check Food
+Cooked Leftovers,Freezer,Opened,102.636,1,9.0,Check Food
+Cooked Leftovers,Refrigerator,Fresh / Normal,5.098,1,4.0,Check Food
+Eggs,Refrigerator,Fresh / Normal,28.294,1,15.0,Check Food
+Bakery,Freezer,Fresh / Normal,110.164,1,12.0,Check Food
+Beverages,Refrigerator,Cooked / Prepared,10.19,1,15.0,Check Food
+Vegetables,Refrigerator,Opened,6.965,0,,Reminder Due Soon
+Cooked Leftovers,Refrigerator,Fresh / Normal,4.439,0,,Check Food
+Vegetables,Freezer,Fresh / Normal,171.586,1,9.0,No Reminder Due
+Eggs,Refrigerator,Fresh / Normal,14.816,0,,No Reminder Due
+Beverages,Refrigerator,Thawed,1.747,0,,Reminder Due Soon
+Other,Freezer,Opened,18.592,0,,No Reminder Due
+Other,Freezer,Opened,18.06,0,,No Reminder Due
+Meat & Poultry,Refrigerator,Opened,1.541,0,,Reminder Due Soon
+Cooked Leftovers,Freezer,Opened,138.557,1,7.0,Check Food
+Meat & Poultry,Freezer,Fresh / Normal,0.164,1,-1.0,Date Passed
+Eggs,Room temperature,Cooked / Prepared,0.004,1,15.0,No Reminder Due
+Meat & Poultry,Refrigerator,Fresh / Normal,2.005,1,14.0,Check Food
+Eggs,Freezer,Fresh / Normal,218.777,1,0.0,Check Food
+Packaged / Pantry,Room temperature,Cooked / Prepared,25.492,0,,No Reminder Due
+Fruits,Room temperature,Fresh / Normal,2.003,1,-1.0,Date Passed
+Bakery,Freezer,Looks or smells unusual,142.6,1,2.0,Check Food
+Bakery,Room temperature,Looks or smells unusual,1.305,1,13.0,Check Food
+Bakery,Room temperature,Fresh / Normal,2.815,0,,No Reminder Due
+Eggs,Room temperature,Thawed,0.106,1,-5.0,Date Passed
+Cooked Leftovers,Freezer,Opened,72.792,0,,Reminder Due Soon
+Vegetables,Freezer,Cooked / Prepared,128.083,1,3.0,No Reminder Due
+Fruits,Refrigerator,Fresh / Normal,9.526,1,-4.0,Date Passed
+Seafood,Refrigerator,Opened,0.068,1,10.0,No Reminder Due
+Meat & Poultry,Refrigerator,Cooked / Prepared,0.88,1,-5.0,Date Passed
+Dairy,Room temperature,Fresh / Normal,0.113,1,7.0,Check Food
+Fruits,Freezer,Fresh / Normal,170.055,1,4.0,No Reminder Due
+Beverages,Freezer,Fresh / Normal,25.719,0,,No Reminder Due
+Packaged / Pantry,Freezer,Fresh / Normal,58.404,0,,No Reminder Due
+Vegetables,Refrigerator,Opened,10.675,1,10.0,Check Food
+Vegetables,Refrigerator,Opened,4.028,1,10.0,No Reminder Due
+Dairy,Refrigerator,Cooked / Prepared,0.207,1,2.0,Reminder Due Soon
+Fruits,Freezer,Opened,298.233,0,,Check Food
+Seafood,Room temperature,Fresh / Normal,0.063,0,,Reminder Due Soon
+Bakery,Refrigerator,Fresh / Normal,2.504,1,-2.0,Date Passed
+Eggs,Refrigerator,Thawed,2.962,1,-2.0,Date Passed
+Vegetables,Room temperature,Fresh / Normal,5.92,0,,Check Food
+Fruits,Refrigerator,Cooked / Prepared,10.866,0,,Check Food
+Seafood,Room temperature,Opened,0.01,0,,No Reminder Due
+Dairy,Freezer,Opened,60.085,1,5.0,No Reminder Due
+Meat & Poultry,Freezer,Fresh / Normal,210.177,0,,Check Food
+Beverages,Freezer,Opened,44.959,0,,No Reminder Due
+Fruits,Refrigerator,Fresh / Normal,1.958,1,10.0,No Reminder Due
+Beverages,Freezer,Looks or smells unusual,105.717,1,14.0,Check Food
+Packaged / Pantry,Freezer,Thawed,69.609,0,,No Reminder Due
+Eggs,Freezer,Fresh / Normal,199.563,0,,Check Food
+Other,Freezer,Fresh / Normal,20.226,1,-2.0,Date Passed
+Cooked Leftovers,Refrigerator,Opened,4.824,1,5.0,Check Food
+Cooked Leftovers,Refrigerator,Opened,5.393,1,12.0,Check Food
+Beverages,Room temperature,Cooked / Prepared,3.477,0,,No Reminder Due
+Bakery,Freezer,Fresh / Normal,21.987,0,,No Reminder Due
+Meat & Poultry,Refrigerator,Fresh / Normal,0.447,1,9.0,No Reminder Due
+Eggs,Freezer,Fresh / Normal,9.229,0,,No Reminder Due
+Fruits,Refrigerator,Cooked / Prepared,1.217,1,2.0,Reminder Due Soon
+Eggs,Refrigerator,Opened,13.241,0,,No Reminder Due
+Dairy,Freezer,Opened,85.466,1,8.0,Reminder Due Soon
+Fruits,Room temperature,Fresh / Normal,0.802,0,,No Reminder Due
+Cooked Leftovers,Room temperature,Fresh / Normal,0.08,0,,Reminder Due Soon
+Other,Room temperature,Cooked / Prepared,18.971,0,,No Reminder Due
+Cooked Leftovers,Room temperature,Fresh / Normal,0.059,1,15.0,No Reminder Due
+Fruits,Refrigerator,Fresh / Normal,11.062,1,-4.0,Date Passed
+Eggs,Refrigerator,Fresh / Normal,16.121,0,,Reminder Due Soon
+Packaged / Pantry,Refrigerator,Fresh / Normal,0.579,0,,No Reminder Due
+Fruits,Room temperature,Opened,0.726,1,0.0,Reminder Due Soon
+Dairy,Room temperature,Opened,0.129,1,13.0,Check Food
+Fruits,Room temperature,Fresh / Normal,2.236,0,,No Reminder Due
+Packaged / Pantry,Room temperature,Opened,29.296,1,3.0,No Reminder Due
+Bakery,Refrigerator,Fresh / Normal,4.389,1,10.0,No Reminder Due
+Bakery,Freezer,Cooked / Prepared,37.94,1,-2.0,Date Passed
+Eggs,Freezer,Cooked / Prepared,134.355,1,-3.0,Date Passed
+Packaged / Pantry,Refrigerator,Fresh / Normal,10.081,1,7.0,Check Food
+Beverages,Refrigerator,Opened,1.388,1,9.0,No Reminder Due
+Beverages,Freezer,Thawed,134.915,0,,Check Food
+Meat & Poultry,Refrigerator,Cooked / Prepared,3.177,1,9.0,Check Food
+Fruits,Refrigerator,Opened,5.972,1,4.0,Reminder Due Soon
+Vegetables,Freezer,Looks or smells unusual,101.597,1,-5.0,Date Passed
+Other,Refrigerator,Fresh / Normal,8.217,1,2.0,Reminder Due Soon
+Cooked Leftovers,Refrigerator,Fresh / Normal,2.465,1,-1.0,Date Passed
+Cooked Leftovers,Refrigerator,Fresh / Normal,0.161,1,1.0,Reminder Due Soon
+Beverages,Freezer,Looks or smells unusual,72.608,1,15.0,Check Food
+Other,Refrigerator,Cooked / Prepared,22.943,0,,No Reminder Due
+Fruits,Room temperature,Fresh / Normal,6.135,0,,Check Food
+Beverages,Refrigerator,Looks or smells unusual,1.057,0,,Check Food
+Eggs,Room temperature,Fresh / Normal,0.087,1,9.0,Check Food
+Beverages,Room temperature,Opened,25.706,1,11.0,No Reminder Due
+Beverages,Refrigerator,Fresh / Normal,0.476,1,4.0,No Reminder Due
+Seafood,Room temperature,Fresh / Normal,0.117,1,3.0,Check Food
+Packaged / Pantry,Room temperature,Fresh / Normal,9.834,1,-4.0,Date Passed
+Eggs,Freezer,Opened,43.719,1,0.0,Reminder Due Soon
+Vegetables,Freezer,Fresh / Normal,316.382,1,9.0,Check Food
+Other,Refrigerator,Looks or smells unusual,25.144,1,11.0,Check Food
+Other,Freezer,Fresh / Normal,24.547,1,1.0,Reminder Due Soon
+Seafood,Refrigerator,Fresh / Normal,1.804,0,,Reminder Due Soon
+Other,Refrigerator,Opened,24.477,1,-4.0,Date Passed
+Fruits,Freezer,Fresh / Normal,254.563,1,3.0,Check Food
+Other,Refrigerator,Fresh / Normal,9.698,1,13.0,No Reminder Due
+Cooked Leftovers,Room temperature,Fresh / Normal,0.021,1,10.0,No Reminder Due
+Other,Room temperature,Thawed,14.471,0,,No Reminder Due
+Fruits,Room temperature,Fresh / Normal,7.437,0,,Check Food
+Dairy,Freezer,Fresh / Normal,65.153,1,1.0,Reminder Due Soon
+Cooked Leftovers,Refrigerator,Thawed,0.811,0,,No Reminder Due
+Vegetables,Refrigerator,Fresh / Normal,7.322,1,7.0,Check Food
+Bakery,Freezer,Looks or smells unusual,107.786,0,,Check Food
+Meat & Poultry,Freezer,Fresh / Normal,106.083,1,-3.0,Date Passed
+Fruits,Refrigerator,Fresh / Normal,4.131,1,8.0,No Reminder Due
+Eggs,Refrigerator,Fresh / Normal,21.066,1,-1.0,Date Passed
+Seafood,Freezer,Opened,111.148,1,1.0,Check Food
+Vegetables,Refrigerator,Opened,10.19,0,,Check Food
+Other,Freezer,Fresh / Normal,20.95,0,,No Reminder Due
+Dairy,Room temperature,Fresh / Normal,0.075,1,4.0,Reminder Due Soon
+Bakery,Room temperature,Opened,4.63,0,,Check Food
+Vegetables,Freezer,Opened,289.755,0,,Check Food
+Fruits,Room temperature,Fresh / Normal,4.45,1,-2.0,Date Passed
+Packaged / Pantry,Room temperature,Fresh / Normal,5.643,1,8.0,No Reminder Due
+Bakery,Room temperature,Fresh / Normal,0.599,0,,No Reminder Due
+Bakery,Room temperature,Fresh / Normal,1.871,0,,No Reminder Due
+Meat & Poultry,Room temperature,Opened,0.041,1,9.0,No Reminder Due
+Dairy,Refrigerator,Fresh / Normal,0.054,0,,No Reminder Due
+Beverages,Room temperature,Cooked / Prepared,14.149,1,14.0,No Reminder Due
+Packaged / Pantry,Freezer,Fresh / Normal,150.254,1,1.0,Reminder Due Soon
+Vegetables,Freezer,Looks or smells unusual,30.237,1,13.0,Check Food
+Dairy,Refrigerator,Fresh / Normal,3.22,1,-3.0,Date Passed
+Beverages,Room temperature,Thawed,0.978,1,5.0,No Reminder Due
+Dairy,Freezer,Fresh / Normal,37.833,0,,No Reminder Due
+Cooked Leftovers,Refrigerator,Fresh / Normal,3.671,1,12.0,Reminder Due Soon
+Vegetables,Refrigerator,Thawed,0.443,1,2.0,Reminder Due Soon
+Meat & Poultry,Room temperature,Thawed,0.049,1,8.0,No Reminder Due
+Dairy,Refrigerator,Fresh / Normal,8.152,1,-2.0,Date Passed
+Dairy,Room temperature,Fresh / Normal,0.115,0,,Check Food
+Dairy,Refrigerator,Fresh / Normal,0.63,0,,No Reminder Due
+Beverages,Refrigerator,Opened,4.774,0,,No Reminder Due
+Packaged / Pantry,Freezer,Opened,284.858,1,7.0,Check Food
+Packaged / Pantry,Room temperature,Opened,26.59,0,,No Reminder Due
+Dairy,Room temperature,Fresh / Normal,0.056,1,9.0,No Reminder Due
+Cooked Leftovers,Freezer,Opened,47.073,1,11.0,No Reminder Due
+Seafood,Room temperature,Fresh / Normal,0.116,0,,Check Food
+Eggs,Freezer,Cooked / Prepared,244.128,1,-3.0,Date Passed
+Eggs,Refrigerator,Fresh / Normal,1.588,0,,No Reminder Due
+Meat & Poultry,Room temperature,Fresh / Normal,0.1,1,12.0,Check Food
+Vegetables,Freezer,Fresh / Normal,4.199,1,10.0,No Reminder Due
+Seafood,Room temperature,Fresh / Normal,0.025,1,3.0,No Reminder Due
+Vegetables,Freezer,Cooked / Prepared,289.18,0,,Check Food
+Vegetables,Freezer,Fresh / Normal,213.457,1,11.0,Reminder Due Soon
+Packaged / Pantry,Refrigerator,Looks or smells unusual,7.637,0,,Check Food
+Fruits,Freezer,Opened,187.052,1,3.0,Reminder Due Soon
+Seafood,Room temperature,Fresh / Normal,0.124,1,6.0,Check Food
+Meat & Poultry,Refrigerator,Cooked / Prepared,0.31,0,,No Reminder Due
+Other,Room temperature,Fresh / Normal,20.755,0,,No Reminder Due
+Seafood,Room temperature,Thawed,0.096,1,4.0,Check Food
+Cooked Leftovers,Room temperature,Looks or smells unusual,0.078,0,,Check Food
+Bakery,Freezer,Cooked / Prepared,143.664,1,4.0,Check Food
+Dairy,Refrigerator,Opened,5.391,1,-4.0,Date Passed
+Dairy,Freezer,Opened,84.268,0,,Reminder Due Soon
+Eggs,Freezer,Opened,227.59,0,,Check Food
+Bakery,Room temperature,Opened,0.648,1,6.0,No Reminder Due
+Packaged / Pantry,Freezer,Thawed,195.567,1,3.0,Check Food
+Vegetables,Refrigerator,Cooked / Prepared,9.267,1,-1.0,Date Passed
+Other,Freezer,Fresh / Normal,13.388,0,,No Reminder Due
+Dairy,Room temperature,Opened,0.049,1,11.0,No Reminder Due
+Meat & Poultry,Freezer,Fresh / Normal,271.913,1,-1.0,Date Passed
+Other,Refrigerator,Fresh / Normal,10.149,0,,No Reminder Due
+Packaged / Pantry,Freezer,Cooked / Prepared,231.179,1,14.0,Check Food
+Vegetables,Room temperature,Fresh / Normal,0.326,0,,No Reminder Due
+Other,Room temperature,Opened,16.568,1,13.0,No Reminder Due
+Beverages,Room temperature,Opened,1.016,0,,No Reminder Due
+Beverages,Room temperature,Thawed,8.316,1,7.0,No Reminder Due
+Other,Freezer,Opened,19.27,1,14.0,No Reminder Due
+Bakery,Freezer,Fresh / Normal,13.932,1,1.0,Reminder Due Soon
+Packaged / Pantry,Freezer,Fresh / Normal,158.001,1,-2.0,Date Passed
+Cooked Leftovers,Refrigerator,Opened,2.356,0,,No Reminder Due
+Cooked Leftovers,Room temperature,Fresh / Normal,0.122,0,,Check Food
+Other,Room temperature,Opened,18.604,0,,No Reminder Due
+Fruits,Room temperature,Fresh / Normal,7.665,1,-2.0,Date Passed
+Beverages,Refrigerator,Fresh / Normal,5.709,1,2.0,Reminder Due Soon
+Dairy,Freezer,Fresh / Normal,35.975,1,13.0,No Reminder Due
+Eggs,Refrigerator,Fresh / Normal,10.741,1,15.0,No Reminder Due
+Vegetables,Freezer,Opened,247.196,0,,Check Food
+Cooked Leftovers,Refrigerator,Cooked / Prepared,0.16,1,0.0,Reminder Due Soon
+Fruits,Room temperature,Opened,5.426,0,,Check Food
+Dairy,Refrigerator,Opened,4.436,1,5.0,No Reminder Due
+Bakery,Refrigerator,Cooked / Prepared,11.15,1,8.0,Check Food
+Vegetables,Freezer,Thawed,209.359,0,,Reminder Due Soon
+Beverages,Refrigerator,Thawed,0.391,0,,No Reminder Due
+Bakery,Freezer,Thawed,11.051,1,-5.0,Date Passed
+Cooked Leftovers,Refrigerator,Fresh / Normal,2.14,1,-1.0,Date Passed
+Eggs,Refrigerator,Cooked / Prepared,30.009,0,,Check Food
+Eggs,Room temperature,Fresh / Normal,0.122,1,-3.0,Date Passed
+Eggs,Freezer,Looks or smells unusual,273.791,1,12.0,Check Food
+Bakery,Freezer,Cooked / Prepared,4.548,1,4.0,No Reminder Due
+Fruits,Freezer,Fresh / Normal,255.764,1,1.0,Check Food
+Packaged / Pantry,Room temperature,Opened,23.187,1,12.0,No Reminder Due
+Meat & Poultry,Freezer,Fresh / Normal,247.935,0,,Check Food
+Other,Room temperature,Thawed,28.788,1,7.0,No Reminder Due
+Other,Room temperature,Fresh / Normal,16.811,1,6.0,No Reminder Due
+Dairy,Refrigerator,Fresh / Normal,0.923,1,12.0,No Reminder Due
+Packaged / Pantry,Freezer,Opened,123.435,1,8.0,No Reminder Due
+Vegetables,Refrigerator,Thawed,0.635,0,,No Reminder Due
+Packaged / Pantry,Room temperature,Opened,25.888,1,12.0,No Reminder Due
+Packaged / Pantry,Freezer,Cooked / Prepared,191.399,0,,Check Food
+Beverages,Refrigerator,Fresh / Normal,9.116,0,,Check Food
+Other,Refrigerator,Looks or smells unusual,11.833,1,4.0,Check Food
+Fruits,Refrigerator,Fresh / Normal,9.416,1,14.0,Check Food
+Eggs,Freezer,Opened,232.075,0,,Check Food
+Seafood,Freezer,Opened,67.287,0,,No Reminder Due
+Dairy,Freezer,Fresh / Normal,67.951,1,4.0,Reminder Due Soon
+Seafood,Freezer,Opened,117.768,0,,Check Food
+Dairy,Freezer,Thawed,122.926,1,-4.0,Date Passed
+Vegetables,Freezer,Cooked / Prepared,91.694,0,,No Reminder Due
+Cooked Leftovers,Refrigerator,Opened,6.071,1,0.0,Check Food
+Dairy,Room temperature,Looks or smells unusual,0.117,1,11.0,Check Food
+Packaged / Pantry,Freezer,Fresh / Normal,250.771,0,,Check Food
+Dairy,Room temperature,Fresh / Normal,0.108,0,,Check Food
+Fruits,Refrigerator,Thawed,0.736,1,4.0,No Reminder Due
+Vegetables,Freezer,Looks or smells unusual,94.947,1,12.0,Check Food
+Meat & Poultry,Refrigerator,Fresh / Normal,1.61,0,,Reminder Due Soon
+Packaged / Pantry,Freezer,Opened,147.539,0,,Reminder Due Soon
+Dairy,Refrigerator,Fresh / Normal,1.881,0,,No Reminder Due
+Cooked Leftovers,Room temperature,Fresh / Normal,0.052,0,,No Reminder Due
+Beverages,Room temperature,Fresh / Normal,16.651,1,-5.0,Date Passed
+Vegetables,Refrigerator,Opened,2.033,1,0.0,Reminder Due Soon
+Bakery,Refrigerator,Fresh / Normal,9.457,1,7.0,Check Food
+Seafood,Room temperature,Fresh / Normal,0.104,1,11.0,Check Food
+Seafood,Room temperature,Fresh / Normal,0.03,0,,No Reminder Due
+Fruits,Freezer,Fresh / Normal,338.718,0,,Check Food
+Packaged / Pantry,Room temperature,Cooked / Prepared,20.225,1,13.0,No Reminder Due
+Eggs,Freezer,Thawed,28.95,1,-5.0,Date Passed
+Dairy,Freezer,Fresh / Normal,97.25,0,,Check Food
+Other,Room temperature,Fresh / Normal,23.985,0,,No Reminder Due
+Other,Refrigerator,Cooked / Prepared,10.642,0,,No Reminder Due
+Dairy,Freezer,Fresh / Normal,19.472,1,5.0,No Reminder Due
+Beverages,Refrigerator,Opened,3.936,1,10.0,No Reminder Due
+Bakery,Refrigerator,Opened,10.472,1,9.0,Check Food
+Fruits,Room temperature,Fresh / Normal,5.919,0,,Check Food
+Beverages,Room temperature,Opened,18.803,1,6.0,No Reminder Due
+Bakery,Room temperature,Looks or smells unusual,3.152,1,11.0,Check Food
+Eggs,Freezer,Fresh / Normal,70.492,1,7.0,No Reminder Due
+Beverages,Room temperature,Fresh / Normal,1.349,0,,No Reminder Due
+Seafood,Refrigerator,Fresh / Normal,0.091,1,9.0,No Reminder Due
+Fruits,Refrigerator,Opened,4.868,0,,No Reminder Due
+Beverages,Refrigerator,Cooked / Prepared,0.605,0,,No Reminder Due
+Other,Room temperature,Cooked / Prepared,13.956,1,12.0,No Reminder Due
+Beverages,Freezer,Fresh / Normal,64.975,1,10.0,No Reminder Due
+Seafood,Room temperature,Cooked / Prepared,0.086,0,,Check Food
+Fruits,Refrigerator,Fresh / Normal,0.511,0,,No Reminder Due
+Eggs,Freezer,Fresh / Normal,70.663,1,2.0,Reminder Due Soon
+Vegetables,Room temperature,Fresh / Normal,4.912,1,-1.0,Date Passed
+Vegetables,Freezer,Fresh / Normal,312.977,1,6.0,Check Food
+Beverages,Refrigerator,Cooked / Prepared,4.835,0,,No Reminder Due
+Other,Refrigerator,Fresh / Normal,15.758,1,4.0,No Reminder Due
+Fruits,Refrigerator,Fresh / Normal,1.387,1,8.0,No Reminder Due
+Vegetables,Refrigerator,Fresh / Normal,6.96,1,14.0,Reminder Due Soon
+Dairy,Refrigerator,Fresh / Normal,1.327,1,-3.0,Date Passed
+Cooked Leftovers,Refrigerator,Opened,0.006,1,3.0,No Reminder Due
+Seafood,Refrigerator,Opened,1.053,1,1.0,Reminder Due Soon
+Seafood,Freezer,Looks or smells unusual,15.596,1,-5.0,Date Passed
+Seafood,Refrigerator,Looks or smells unusual,1.977,0,,Check Food
+Fruits,Room temperature,Fresh / Normal,7.796,1,13.0,Check Food
+Vegetables,Freezer,Fresh / Normal,357.597,1,3.0,Check Food
+Eggs,Room temperature,Fresh / Normal,0.087,0,,Check Food
+Vegetables,Refrigerator,Looks or smells unusual,6.359,0,,Check Food
+Packaged / Pantry,Refrigerator,Opened,7.543,1,1.0,Check Food
+Meat & Poultry,Room temperature,Thawed,0.005,0,,No Reminder Due
+Seafood,Room temperature,Fresh / Normal,0.021,0,,No Reminder Due
+Other,Freezer,Opened,20.52,1,-4.0,Date Passed
+Fruits,Freezer,Cooked / Prepared,228.209,1,14.0,Reminder Due Soon
+Vegetables,Room temperature,Cooked / Prepared,3.019,1,13.0,Reminder Due Soon
+Bakery,Refrigerator,Fresh / Normal,0.125,0,,No Reminder Due
+Packaged / Pantry,Refrigerator,Thawed,0.54,1,10.0,No Reminder Due
+Eggs,Refrigerator,Cooked / Prepared,32.178,0,,Check Food
+Cooked Leftovers,Room temperature,Cooked / Prepared,0.02,0,,No Reminder Due
+Meat & Poultry,Room temperature,Fresh / Normal,0.021,1,5.0,No Reminder Due
+Cooked Leftovers,Refrigerator,Thawed,2.551,0,,Check Food
+Other,Refrigerator,Opened,7.715,1,2.0,Reminder Due Soon
+Cooked Leftovers,Room temperature,Opened,0.024,1,0.0,Reminder Due Soon
+Seafood,Freezer,Fresh / Normal,134.006,1,3.0,Check Food
+Packaged / Pantry,Refrigerator,Cooked / Prepared,8.021,0,,Check Food
+Bakery,Refrigerator,Fresh / Normal,1.115,0,,No Reminder Due
+Vegetables,Refrigerator,Fresh / Normal,0.68,1,-4.0,Date Passed
+Other,Refrigerator,Opened,23.726,0,,No Reminder Due
+Meat & Poultry,Refrigerator,Opened,1.802,1,12.0,Reminder Due Soon
+Bakery,Refrigerator,Looks or smells unusual,1.098,0,,Check Food
+Seafood,Freezer,Fresh / Normal,107.377,1,7.0,Check Food
+Eggs,Room temperature,Opened,0.015,1,10.0,No Reminder Due
+Beverages,Refrigerator,Thawed,2.439,0,,Check Food
+Cooked Leftovers,Freezer,Cooked / Prepared,136.533,1,0.0,Check Food
+Vegetables,Refrigerator,Fresh / Normal,4.404,0,,No Reminder Due
+Vegetables,Freezer,Opened,120.635,1,3.0,No Reminder Due
+Seafood,Room temperature,Opened,0.05,0,,No Reminder Due
+Packaged / Pantry,Freezer,Fresh / Normal,66.27,0,,No Reminder Due
+Dairy,Refrigerator,Opened,0.056,1,9.0,No Reminder Due
+Vegetables,Freezer,Fresh / Normal,354.924,0,,Check Food
+Eggs,Freezer,Cooked / Prepared,280.916,1,1.0,Check Food
+Bakery,Room temperature,Fresh / Normal,5.674,1,14.0,Check Food
+Packaged / Pantry,Freezer,Cooked / Prepared,177.007,1,4.0,Reminder Due Soon
+Vegetables,Refrigerator,Fresh / Normal,3.023,1,-2.0,Date Passed
+Beverages,Freezer,Fresh / Normal,127.125,1,-4.0,Date Passed
+Eggs,Room temperature,Fresh / Normal,0.098,1,3.0,Check Food
+Cooked Leftovers,Refrigerator,Looks or smells unusual,5.221,0,,Check Food
+Meat & Poultry,Room temperature,Thawed,0.045,0,,No Reminder Due
+Dairy,Freezer,Fresh / Normal,31.961,1,0.0,Reminder Due Soon
+Bakery,Refrigerator,Cooked / Prepared,3.542,1,11.0,No Reminder Due
+Fruits,Freezer,Opened,352.929,0,,Check Food
+Meat & Poultry,Room temperature,Thawed,0.129,1,13.0,Check Food
+Dairy,Refrigerator,Fresh / Normal,2.886,1,-4.0,Date Passed
+Other,Room temperature,Fresh / Normal,28.781,0,,No Reminder Due
+Cooked Leftovers,Freezer,Cooked / Prepared,47.732,0,,No Reminder Due
+Eggs,Refrigerator,Looks or smells unusual,10.14,1,2.0,Check Food
+Bakery,Freezer,Opened,91.072,1,8.0,Check Food
+Beverages,Room temperature,Fresh / Normal,8.185,1,14.0,No Reminder Due
+Cooked Leftovers,Room temperature,Opened,0.025,1,1.0,Reminder Due Soon
+Cooked Leftovers,Freezer,Fresh / Normal,99.201,0,,Check Food
+Meat & Poultry,Freezer,Thawed,28.315,1,0.0,Reminder Due Soon
+Bakery,Freezer,Thawed,8.182,0,,No Reminder Due
+Beverages,Refrigerator,Fresh / Normal,1.938,0,,No Reminder Due
+Eggs,Refrigerator,Thawed,2.046,0,,Check Food
+Dairy,Refrigerator,Thawed,0.588,1,9.0,No Reminder Due
+Meat & Poultry,Freezer,Fresh / Normal,35.651,1,5.0,No Reminder Due
+Cooked Leftovers,Refrigerator,Fresh / Normal,5.863,1,-4.0,Date Passed
+Beverages,Room temperature,Looks or smells unusual,4.277,0,,Check Food
+Dairy,Freezer,Cooked / Prepared,13.852,1,6.0,No Reminder Due
+Dairy,Room temperature,Looks or smells unusual,0.09,0,,Check Food
+Vegetables,Freezer,Cooked / Prepared,15.43,0,,No Reminder Due
+Other,Room temperature,Fresh / Normal,15.217,0,,No Reminder Due
+Eggs,Room temperature,Opened,0.023,1,0.0,Reminder Due Soon
+Other,Refrigerator,Cooked / Prepared,25.922,1,7.0,No Reminder Due
+Cooked Leftovers,Refrigerator,Fresh / Normal,3.542,0,,Reminder Due Soon
+Seafood,Refrigerator,Fresh / Normal,1.776,1,8.0,Reminder Due Soon
+Vegetables,Refrigerator,Looks or smells unusual,8.529,0,,Check Food
+Beverages,Room temperature,Opened,27.847,1,-4.0,Date Passed
+Dairy,Refrigerator,Fresh / Normal,1.068,1,-4.0,Date Passed
+Meat & Poultry,Room temperature,Cooked / Prepared,0.079,1,12.0,Reminder Due Soon
+Beverages,Refrigerator,Fresh / Normal,3.143,1,2.0,Reminder Due Soon
+Packaged / Pantry,Refrigerator,Thawed,2.432,0,,Check Food
+Seafood,Refrigerator,Thawed,2.167,1,1.0,Check Food
+Bakery,Freezer,Fresh / Normal,16.146,1,5.0,No Reminder Due
+Eggs,Refrigerator,Fresh / Normal,4.454,0,,No Reminder Due
+Seafood,Refrigerator,Fresh / Normal,1.031,0,,No Reminder Due
+Other,Freezer,Thawed,8.998,1,13.0,No Reminder Due
+Vegetables,Refrigerator,Thawed,2.814,1,2.0,Check Food
+Meat & Poultry,Room temperature,Opened,0.036,1,9.0,No Reminder Due
+Dairy,Refrigerator,Fresh / Normal,3.458,1,11.0,No Reminder Due
+Seafood,Refrigerator,Fresh / Normal,2.228,1,-5.0,Date Passed
+Fruits,Room temperature,Fresh / Normal,1.51,0,,No Reminder Due
+Cooked Leftovers,Freezer,Fresh / Normal,138.194,1,14.0,Check Food
+Meat & Poultry,Freezer,Cooked / Prepared,202.786,0,,Check Food
+Meat & Poultry,Freezer,Opened,93.262,1,8.0,No Reminder Due
+Bakery,Freezer,Fresh / Normal,13.569,1,-5.0,Date Passed
+Packaged / Pantry,Freezer,Opened,121.264,1,-3.0,Date Passed
+Eggs,Freezer,Cooked / Prepared,166.76,1,2.0,Reminder Due Soon
+Seafood,Freezer,Looks or smells unusual,108.906,1,13.0,Check Food
+Fruits,Refrigerator,Looks or smells unusual,3.575,1,-5.0,Date Passed
+Packaged / Pantry,Room temperature,Cooked / Prepared,1.421,1,-1.0,Date Passed
+Dairy,Freezer,Fresh / Normal,134.408,0,,Check Food
+Vegetables,Freezer,Opened,112.087,1,6.0,No Reminder Due
+Seafood,Room temperature,Fresh / Normal,0.011,1,1.0,Reminder Due Soon
+Dairy,Room temperature,Cooked / Prepared,0.107,0,,Check Food
+Eggs,Refrigerator,Fresh / Normal,28.519,1,12.0,Check Food
+Vegetables,Refrigerator,Looks or smells unusual,3.08,1,-4.0,Date Passed
+Seafood,Freezer,Fresh / Normal,75.552,0,,Reminder Due Soon
+Eggs,Room temperature,Opened,0.045,0,,No Reminder Due
+Cooked Leftovers,Freezer,Fresh / Normal,72.431,0,,Reminder Due Soon
+Meat & Poultry,Room temperature,Opened,0.103,1,11.0,Check Food
+Packaged / Pantry,Refrigerator,Fresh / Normal,0.434,1,-1.0,Date Passed
+Fruits,Refrigerator,Opened,5.383,0,,Reminder Due Soon
+Cooked Leftovers,Refrigerator,Fresh / Normal,2.216,1,9.0,No Reminder Due
+Packaged / Pantry,Freezer,Fresh / Normal,95.132,0,,No Reminder Due
+Cooked Leftovers,Freezer,Fresh / Normal,63.51,0,,No Reminder Due
+Fruits,Refrigerator,Thawed,0.522,1,10.0,No Reminder Due
+Eggs,Freezer,Thawed,131.018,0,,No Reminder Due
+Dairy,Refrigerator,Thawed,2.952,1,1.0,Check Food
+Fruits,Refrigerator,Cooked / Prepared,6.149,0,,Reminder Due Soon
+Fruits,Freezer,Fresh / Normal,53.102,0,,No Reminder Due
+Seafood,Room temperature,Fresh / Normal,0.099,0,,Check Food
+Packaged / Pantry,Refrigerator,Fresh / Normal,7.75,0,,Check Food
+Packaged / Pantry,Refrigerator,Thawed,1.675,0,,Reminder Due Soon
+Dairy,Room temperature,Thawed,0.069,1,13.0,Reminder Due Soon
+Fruits,Room temperature,Cooked / Prepared,1.072,1,-3.0,Date Passed
+Fruits,Refrigerator,Fresh / Normal,2.599,0,,No Reminder Due
+Dairy,Room temperature,Fresh / Normal,0.113,0,,Check Food
+Fruits,Freezer,Cooked / Prepared,154.603,1,2.0,Reminder Due Soon
+Fruits,Room temperature,Thawed,7.394,0,,Check Food
+Dairy,Room temperature,Opened,0.131,1,6.0,Check Food
+Beverages,Refrigerator,Opened,3.682,1,4.0,No Reminder Due
+Dairy,Freezer,Fresh / Normal,27.052,1,7.0,No Reminder Due
+Packaged / Pantry,Freezer,Thawed,96.961,0,,No Reminder Due
+Bakery,Room temperature,Fresh / Normal,5.259,0,,Check Food
+Beverages,Freezer,Fresh / Normal,5.053,0,,No Reminder Due
+Vegetables,Room temperature,Looks or smells unusual,5.775,1,-4.0,Date Passed
+Beverages,Refrigerator,Cooked / Prepared,0.075,1,4.0,No Reminder Due
+Beverages,Room temperature,Cooked / Prepared,18.591,1,5.0,No Reminder Due
+Cooked Leftovers,Room temperature,Fresh / Normal,0.06,1,15.0,No Reminder Due
+Fruits,Freezer,Opened,166.017,0,,No Reminder Due
+Eggs,Room temperature,Looks or smells unusual,0.075,1,2.0,Check Food
+Bakery,Refrigerator,Opened,7.84,0,,Check Food
+Packaged / Pantry,Refrigerator,Cooked / Prepared,2.337,1,9.0,No Reminder Due
+Cooked Leftovers,Freezer,Fresh / Normal,123.259,0,,Check Food
+Eggs,Refrigerator,Thawed,2.295,0,,Check Food
+Cooked Leftovers,Freezer,Thawed,59.62,1,3.0,No Reminder Due
+Dairy,Freezer,Cooked / Prepared,81.664,1,8.0,Reminder Due Soon
+Eggs,Room temperature,Cooked / Prepared,0.037,0,,No Reminder Due
+Vegetables,Room temperature,Looks or smells unusual,6.216,0,,Check Food
+Packaged / Pantry,Room temperature,Opened,5.165,1,12.0,No Reminder Due
+Beverages,Freezer,Thawed,15.79,1,5.0,No Reminder Due
+Beverages,Freezer,Fresh / Normal,15.636,1,2.0,Reminder Due Soon
+Packaged / Pantry,Room temperature,Fresh / Normal,0.495,1,5.0,No Reminder Due
+Dairy,Refrigerator,Cooked / Prepared,8.908,1,9.0,Check Food
+Vegetables,Room temperature,Fresh / Normal,5.688,1,-2.0,Date Passed
+Fruits,Room temperature,Fresh / Normal,2.64,1,3.0,No Reminder Due
+Fruits,Room temperature,Fresh / Normal,6.816,0,,Check Food
+Other,Freezer,Fresh / Normal,15.577,1,6.0,No Reminder Due
+Dairy,Room temperature,Opened,0.123,0,,Check Food
+Eggs,Freezer,Cooked / Prepared,145.133,0,,Reminder Due Soon
+Packaged / Pantry,Refrigerator,Looks or smells unusual,9.097,0,,Check Food
+Dairy,Freezer,Thawed,44.175,0,,No Reminder Due
+Other,Refrigerator,Fresh / Normal,13.372,1,7.0,No Reminder Due
+Eggs,Refrigerator,Fresh / Normal,25.041,1,12.0,Check Food
+Dairy,Room temperature,Cooked / Prepared,0.054,0,,No Reminder Due
+Eggs,Room temperature,Thawed,0.052,1,10.0,No Reminder Due
+Beverages,Freezer,Thawed,47.242,0,,No Reminder Due
+Cooked Leftovers,Freezer,Fresh / Normal,143.665,0,,Check Food
+Dairy,Room temperature,Looks or smells unusual,0.058,1,13.0,Check Food
+Seafood,Refrigerator,Opened,0.704,0,,No Reminder Due
+Beverages,Refrigerator,Fresh / Normal,2.761,1,0.0,Reminder Due Soon
+Seafood,Freezer,Fresh / Normal,88.564,0,,Reminder Due Soon
+Bakery,Room temperature,Cooked / Prepared,2.339,1,7.0,No Reminder Due
+Packaged / Pantry,Refrigerator,Looks or smells unusual,6.964,1,10.0,Check Food
+Eggs,Refrigerator,Cooked / Prepared,18.838,0,,Reminder Due Soon
+Packaged / Pantry,Refrigerator,Opened,2.125,1,9.0,No Reminder Due
+Beverages,Room temperature,Opened,12.471,1,1.0,Reminder Due Soon
+Dairy,Freezer,Fresh / Normal,115.855,1,12.0,Check Food
+Bakery,Refrigerator,Fresh / Normal,9.137,1,4.0,Check Food
+Dairy,Room temperature,Fresh / Normal,0.052,1,10.0,No Reminder Due
+Eggs,Room temperature,Fresh / Normal,0.028,1,6.0,No Reminder Due
+Seafood,Room temperature,Fresh / Normal,0.021,1,1.0,Reminder Due Soon
+Bakery,Room temperature,Fresh / Normal,1.361,0,,No Reminder Due
+Fruits,Room temperature,Cooked / Prepared,1.924,1,2.0,Reminder Due Soon
+Seafood,Freezer,Fresh / Normal,82.918,1,-3.0,Date Passed
+Packaged / Pantry,Freezer,Fresh / Normal,99.605,0,,No Reminder Due
+Beverages,Room temperature,Fresh / Normal,17.145,1,13.0,No Reminder Due
+Dairy,Refrigerator,Fresh / Normal,4.768,1,10.0,No Reminder Due
+Dairy,Refrigerator,Fresh / Normal,3.898,0,,No Reminder Due
+Vegetables,Freezer,Fresh / Normal,14.942,0,,No Reminder Due
+Vegetables,Refrigerator,Opened,8.422,1,0.0,Check Food
+Cooked Leftovers,Freezer,Fresh / Normal,61.924,0,,No Reminder Due
+Dairy,Refrigerator,Opened,7.664,1,0.0,Check Food
+Dairy,Refrigerator,Fresh / Normal,7.505,1,13.0,Check Food
+Beverages,Room temperature,Cooked / Prepared,29.767,0,,No Reminder Due
+Packaged / Pantry,Room temperature,Thawed,21.908,0,,No Reminder Due
+Packaged / Pantry,Room temperature,Opened,19.149,1,14.0,No Reminder Due
+Bakery,Room temperature,Fresh / Normal,5.246,0,,Check Food
+Packaged / Pantry,Room temperature,Fresh / Normal,21.289,0,,No Reminder Due
+Fruits,Room temperature,Thawed,4.588,1,13.0,Reminder Due Soon
+Meat & Poultry,Room temperature,Fresh / Normal,0.097,0,,Check Food
+Other,Room temperature,Fresh / Normal,5.669,0,,No Reminder Due
+Eggs,Room temperature,Fresh / Normal,0.096,1,5.0,Check Food
+Packaged / Pantry,Room temperature,Fresh / Normal,6.008,1,10.0,No Reminder Due
+Fruits,Room temperature,Cooked / Prepared,3.717,1,4.0,No Reminder Due
+Fruits,Refrigerator,Fresh / Normal,10.392,1,-2.0,Date Passed
+Other,Freezer,Fresh / Normal,7.461,1,1.0,Reminder Due Soon
+Eggs,Room temperature,Opened,0.045,0,,No Reminder Due
+Cooked Leftovers,Freezer,Looks or smells unusual,138.422,0,,Check Food
+Bakery,Room temperature,Cooked / Prepared,3.144,0,,Reminder Due Soon
+Vegetables,Refrigerator,Cooked / Prepared,10.773,1,5.0,Check Food
+Packaged / Pantry,Refrigerator,Fresh / Normal,5.878,0,,Reminder Due Soon
+Other,Refrigerator,Fresh / Normal,10.47,0,,No Reminder Due
+Other,Refrigerator,Fresh / Normal,0.699,1,-1.0,Date Passed
+Meat & Poultry,Freezer,Cooked / Prepared,186.887,0,,Check Food
+Bakery,Freezer,Fresh / Normal,2.244,1,-4.0,Date Passed
+Cooked Leftovers,Freezer,Fresh / Normal,22.672,0,,No Reminder Due
+Meat & Poultry,Room temperature,Looks or smells unusual,0.106,1,8.0,Check Food
+Packaged / Pantry,Refrigerator,Opened,0.69,1,1.0,Reminder Due Soon
+Eggs,Room temperature,Fresh / Normal,0.091,0,,Check Food
+Eggs,Freezer,Opened,155.043,1,11.0,Reminder Due Soon
+Vegetables,Room temperature,Opened,1.733,1,11.0,No Reminder Due
+Other,Freezer,Opened,18.628,1,8.0,No Reminder Due
+Vegetables,Freezer,Fresh / Normal,168.904,0,,No Reminder Due
+Other,Refrigerator,Cooked / Prepared,8.489,0,,No Reminder Due
+Packaged / Pantry,Freezer,Cooked / Prepared,175.141,0,,Reminder Due Soon
+Packaged / Pantry,Freezer,Cooked / Prepared,203.169,1,-4.0,Date Passed
+Cooked Leftovers,Freezer,Fresh / Normal,52.811,1,3.0,No Reminder Due
+Eggs,Freezer,Fresh / Normal,231.636,1,9.0,Check Food
+Bakery,Freezer,Opened,4.064,0,,No Reminder Due
+Dairy,Refrigerator,Looks or smells unusual,3.63,1,2.0,Check Food
+Dairy,Refrigerator,Opened,5.231,1,12.0,No Reminder Due
+Seafood,Refrigerator,Fresh / Normal,3.197,1,-3.0,Date Passed
+Seafood,Refrigerator,Looks or smells unusual,0.064,1,2.0,Check Food
+Bakery,Freezer,Cooked / Prepared,66.762,0,,No Reminder Due
+Other,Refrigerator,Looks or smells unusual,25.482,0,,Check Food
+Dairy,Freezer,Fresh / Normal,95.517,1,0.0,Check Food
+Bakery,Freezer,Looks or smells unusual,89.292,1,-5.0,Date Passed
+Eggs,Room temperature,Fresh / Normal,0.019,0,,No Reminder Due
+Meat & Poultry,Room temperature,Opened,0.05,0,,No Reminder Due
+Bakery,Refrigerator,Thawed,1.75,0,,Reminder Due Soon
+Beverages,Refrigerator,Opened,9.693,1,5.0,Check Food
+Vegetables,Freezer,Fresh / Normal,199.181,1,3.0,Reminder Due Soon
+Bakery,Room temperature,Fresh / Normal,5.548,1,4.0,Check Food
+Seafood,Room temperature,Fresh / Normal,0.075,1,10.0,Reminder Due Soon
+Packaged / Pantry,Refrigerator,Thawed,1.701,1,-3.0,Date Passed
+Seafood,Freezer,Fresh / Normal,71.581,1,4.0,Reminder Due Soon
+Cooked Leftovers,Refrigerator,Opened,0.597,1,8.0,No Reminder Due
+Other,Refrigerator,Fresh / Normal,18.249,1,-1.0,Date Passed
+Packaged / Pantry,Refrigerator,Fresh / Normal,9.808,1,-1.0,Date Passed
+Meat & Poultry,Freezer,Looks or smells unusual,271.978,0,,Check Food
+Meat & Poultry,Refrigerator,Opened,3.165,0,,Check Food
+Bakery,Refrigerator,Fresh / Normal,3.534,1,-3.0,Date Passed
+Bakery,Room temperature,Fresh / Normal,0.578,1,0.0,Reminder Due Soon
+Bakery,Refrigerator,Fresh / Normal,1.605,0,,No Reminder Due
+Vegetables,Refrigerator,Opened,2.206,1,8.0,No Reminder Due
+Seafood,Room temperature,Fresh / Normal,0.066,0,,Reminder Due Soon
+Dairy,Freezer,Fresh / Normal,83.7,1,-4.0,Date Passed
+Dairy,Freezer,Fresh / Normal,31.699,1,-4.0,Date Passed
+Other,Freezer,Looks or smells unusual,12.693,1,15.0,Check Food
+Packaged / Pantry,Refrigerator,Fresh / Normal,0.158,1,12.0,No Reminder Due
+Eggs,Room temperature,Fresh / Normal,0.095,1,2.0,Check Food
+Other,Room temperature,Fresh / Normal,16.152,1,-4.0,Date Passed
+Fruits,Room temperature,Fresh / Normal,4.898,1,-2.0,Date Passed
+Other,Refrigerator,Looks or smells unusual,1.29,1,0.0,Check Food
+Vegetables,Freezer,Opened,33.691,0,,No Reminder Due
+Seafood,Room temperature,Fresh / Normal,0.042,0,,No Reminder Due
+Seafood,Room temperature,Looks or smells unusual,0.087,0,,Check Food
+Beverages,Freezer,Thawed,73.566,1,5.0,Reminder Due Soon
+Beverages,Freezer,Opened,17.859,1,8.0,No Reminder Due
+Cooked Leftovers,Room temperature,Fresh / Normal,0.11,1,12.0,Check Food
+Fruits,Room temperature,Fresh / Normal,7.397,1,5.0,Check Food
+Seafood,Freezer,Fresh / Normal,52.808,0,,No Reminder Due
+Seafood,Freezer,Cooked / Prepared,78.792,1,14.0,Reminder Due Soon
+Bakery,Room temperature,Thawed,1.875,0,,No Reminder Due
+Meat & Poultry,Freezer,Thawed,278.444,0,,Check Food
+Beverages,Refrigerator,Opened,1.33,0,,No Reminder Due
+Bakery,Refrigerator,Cooked / Prepared,10.193,1,11.0,Check Food
+Eggs,Freezer,Fresh / Normal,50.348,1,8.0,No Reminder Due
+Beverages,Freezer,Opened,82.654,1,14.0,Reminder Due Soon
+Eggs,Refrigerator,Fresh / Normal,24.504,1,2.0,Check Food
+Fruits,Freezer,Looks or smells unusual,207.082,0,,Check Food
+Meat & Poultry,Refrigerator,Fresh / Normal,0.323,0,,No Reminder Due
+Vegetables,Room temperature,Fresh / Normal,1.403,1,-1.0,Date Passed
+Vegetables,Refrigerator,Cooked / Prepared,10.138,1,8.0,Check Food
+Vegetables,Freezer,Opened,117.442,0,,No Reminder Due
+Bakery,Refrigerator,Cooked / Prepared,8.152,0,,Check Food
+Fruits,Freezer,Fresh / Normal,317.852,0,,Check Food
+Vegetables,Freezer,Cooked / Prepared,102.864,1,2.0,Reminder Due Soon
+Packaged / Pantry,Room temperature,Opened,28.531,0,,No Reminder Due
+Cooked Leftovers,Freezer,Fresh / Normal,143.497,1,13.0,Check Food
+Dairy,Freezer,Opened,114.974,0,,Check Food
+Bakery,Room temperature,Opened,2.736,1,-2.0,Date Passed
+Fruits,Freezer,Opened,328.693,0,,Check Food
+Dairy,Refrigerator,Fresh / Normal,5.925,1,11.0,Reminder Due Soon
+Dairy,Freezer,Opened,36.75,1,-3.0,Date Passed
+Bakery,Room temperature,Fresh / Normal,1.6,1,4.0,No Reminder Due
+Cooked Leftovers,Freezer,Opened,83.645,1,3.0,Reminder Due Soon
+Packaged / Pantry,Refrigerator,Opened,2.323,1,-4.0,Date Passed
+Bakery,Refrigerator,Thawed,1.268,0,,No Reminder Due
+Dairy,Refrigerator,Fresh / Normal,4.527,1,8.0,No Reminder Due
+Fruits,Room temperature,Cooked / Prepared,7.965,1,15.0,Check Food
+Bakery,Room temperature,Opened,3.915,0,,Reminder Due Soon
+Other,Freezer,Thawed,21.773,1,13.0,No Reminder Due
+Bakery,Freezer,Thawed,116.184,1,5.0,Check Food
+Other,Refrigerator,Fresh / Normal,14.797,1,3.0,No Reminder Due
+Bakery,Room temperature,Thawed,1.791,1,6.0,No Reminder Due
+Other,Refrigerator,Thawed,5.25,1,9.0,No Reminder Due
+Seafood,Refrigerator,Fresh / Normal,1.966,0,,Reminder Due Soon
+Beverages,Room temperature,Fresh / Normal,1.849,1,10.0,No Reminder Due
+Beverages,Refrigerator,Cooked / Prepared,3.995,1,0.0,Reminder Due Soon
+Meat & Poultry,Freezer,Fresh / Normal,195.548,1,6.0,Check Food
+Seafood,Room temperature,Cooked / Prepared,0.024,1,10.0,No Reminder Due
+Cooked Leftovers,Freezer,Fresh / Normal,125.676,0,,Check Food
+Meat & Poultry,Room temperature,Opened,0.034,0,,No Reminder Due
+Meat & Poultry,Room temperature,Cooked / Prepared,0.103,1,-5.0,Date Passed
+Vegetables,Refrigerator,Fresh / Normal,9.723,1,8.0,Check Food
+Bakery,Freezer,Thawed,68.585,1,11.0,Reminder Due Soon
+Fruits,Room temperature,Fresh / Normal,6.836,1,15.0,Check Food
+Seafood,Freezer,Fresh / Normal,21.576,1,11.0,No Reminder Due
+Fruits,Freezer,Thawed,27.13,1,6.0,No Reminder Due
+Fruits,Freezer,Fresh / Normal,368.321,0,,Check Food
+Other,Freezer,Thawed,20.576,1,0.0,Reminder Due Soon
+Cooked Leftovers,Freezer,Thawed,114.203,0,,Check Food
+Fruits,Room temperature,Opened,6.455,0,,Check Food
+Meat & Poultry,Refrigerator,Fresh / Normal,1.295,0,,No Reminder Due
+Packaged / Pantry,Refrigerator,Cooked / Prepared,0.082,1,-3.0,Date Passed
+Vegetables,Room temperature,Thawed,1.0,0,,No Reminder Due
+Meat & Poultry,Room temperature,Looks or smells unusual,0.081,1,-1.0,Date Passed
+Seafood,Refrigerator,Fresh / Normal,1.888,0,,Reminder Due Soon
+Eggs,Freezer,Fresh / Normal,169.715,1,1.0,Reminder Due Soon
+Bakery,Room temperature,Cooked / Prepared,6.383,1,4.0,Check Food
+Bakery,Refrigerator,Fresh / Normal,6.199,1,11.0,Reminder Due Soon
+Other,Refrigerator,Opened,23.941,1,8.0,No Reminder Due
+Beverages,Room temperature,Fresh / Normal,18.59,0,,No Reminder Due
+Beverages,Room temperature,Thawed,11.909,0,,No Reminder Due
+Packaged / Pantry,Freezer,Opened,16.968,1,13.0,No Reminder Due
+Vegetables,Refrigerator,Cooked / Prepared,9.409,0,,Check Food
+Dairy,Room temperature,Looks or smells unusual,0.009,1,-3.0,Date Passed
+Dairy,Room temperature,Fresh / Normal,0.002,1,11.0,No Reminder Due
+Fruits,Freezer,Fresh / Normal,47.85,1,12.0,No Reminder Due
+Dairy,Refrigerator,Cooked / Prepared,10.636,0,,Check Food
+Eggs,Room temperature,Opened,0.111,1,15.0,Check Food
+Dairy,Room temperature,Fresh / Normal,0.119,0,,Check Food
+Bakery,Room temperature,Fresh / Normal,3.111,0,,Reminder Due Soon
+Other,Room temperature,Opened,19.784,0,,No Reminder Due
+Seafood,Room temperature,Fresh / Normal,0.063,1,10.0,Reminder Due Soon
+Eggs,Refrigerator,Fresh / Normal,9.543,1,3.0,No Reminder Due
+Fruits,Refrigerator,Opened,1.901,0,,No Reminder Due
+Meat & Poultry,Room temperature,Thawed,0.003,1,-1.0,Date Passed
+Beverages,Refrigerator,Fresh / Normal,5.282,0,,Reminder Due Soon
+Fruits,Room temperature,Fresh / Normal,1.234,0,,No Reminder Due
+Meat & Poultry,Freezer,Fresh / Normal,218.965,1,0.0,Check Food
+Bakery,Refrigerator,Fresh / Normal,2.02,0,,No Reminder Due
+Cooked Leftovers,Freezer,Cooked / Prepared,114.913,0,,Check Food
+Meat & Poultry,Freezer,Fresh / Normal,134.881,1,-5.0,Date Passed
+Vegetables,Room temperature,Fresh / Normal,5.6,1,5.0,Check Food
+Eggs,Freezer,Cooked / Prepared,43.388,1,-4.0,Date Passed
+Other,Room temperature,Opened,0.419,1,9.0,No Reminder Due
+Fruits,Refrigerator,Fresh / Normal,6.872,1,1.0,Reminder Due Soon
+Cooked Leftovers,Freezer,Fresh / Normal,26.891,1,-3.0,Date Passed
+Seafood,Refrigerator,Fresh / Normal,2.886,0,,Check Food
+Dairy,Refrigerator,Opened,6.354,0,,Reminder Due Soon
+Eggs,Freezer,Fresh / Normal,86.914,1,-1.0,Date Passed
+Cooked Leftovers,Refrigerator,Thawed,2.918,1,13.0,Check Food
+Fruits,Room temperature,Opened,4.438,1,3.0,Reminder Due Soon
+Meat & Poultry,Room temperature,Looks or smells unusual,0.087,0,,Check Food
+Cooked Leftovers,Freezer,Fresh / Normal,21.453,1,1.0,Reminder Due Soon
+Dairy,Room temperature,Fresh / Normal,0.055,1,12.0,No Reminder Due
+Seafood,Room temperature,Fresh / Normal,0.02,1,2.0,Reminder Due Soon
+Bakery,Room temperature,Fresh / Normal,5.796,1,15.0,Check Food
+Dairy,Freezer,Fresh / Normal,71.374,0,,Reminder Due Soon
+Eggs,Freezer,Fresh / Normal,238.607,0,,Check Food
+Eggs,Freezer,Opened,227.639,1,3.0,Check Food
+Packaged / Pantry,Freezer,Cooked / Prepared,32.285,1,0.0,Reminder Due Soon
+Beverages,Freezer,Opened,122.462,0,,Check Food
+Beverages,Refrigerator,Fresh / Normal,4.005,1,-5.0,Date Passed
+Fruits,Refrigerator,Cooked / Prepared,0.211,1,12.0,No Reminder Due
+Beverages,Freezer,Opened,18.813,1,11.0,No Reminder Due
+Eggs,Room temperature,Cooked / Prepared,0.043,1,-2.0,Date Passed
+Beverages,Freezer,Thawed,17.57,1,-1.0,Date Passed
+Cooked Leftovers,Freezer,Fresh / Normal,109.899,1,4.0,Check Food
+Beverages,Refrigerator,Fresh / Normal,8.662,0,,Check Food
+Eggs,Room temperature,Opened,0.097,0,,Check Food
+Packaged / Pantry,Refrigerator,Opened,8.631,1,7.0,Check Food
+Bakery,Room temperature,Opened,0.576,0,,No Reminder Due
+Fruits,Freezer,Fresh / Normal,140.585,1,13.0,No Reminder Due
+Seafood,Refrigerator,Looks or smells unusual,1.579,1,6.0,Check Food
+Cooked Leftovers,Room temperature,Fresh / Normal,0.097,1,15.0,Check Food
+Seafood,Refrigerator,Cooked / Prepared,0.005,0,,No Reminder Due
+Cooked Leftovers,Refrigerator,Cooked / Prepared,4.926,0,,Check Food
+Eggs,Refrigerator,Cooked / Prepared,33.269,1,-5.0,Date Passed
+Cooked Leftovers,Room temperature,Fresh / Normal,0.088,0,,Check Food
+Beverages,Refrigerator,Opened,6.45,1,-5.0,Date Passed
+Dairy,Room temperature,Fresh / Normal,0.049,0,,No Reminder Due
+Packaged / Pantry,Refrigerator,Thawed,0.253,1,7.0,No Reminder Due
+Dairy,Room temperature,Cooked / Prepared,0.113,0,,Check Food
+Bakery,Room temperature,Cooked / Prepared,3.237,0,,Reminder Due Soon
+Bakery,Refrigerator,Thawed,0.753,1,8.0,No Reminder Due
+Other,Room temperature,Fresh / Normal,6.34,0,,No Reminder Due
+Packaged / Pantry,Freezer,Fresh / Normal,95.462,1,4.0,No Reminder Due
+Vegetables,Freezer,Looks or smells unusual,250.252,0,,Check Food
+Other,Room temperature,Thawed,6.534,1,1.0,Reminder Due Soon
+Meat & Poultry,Room temperature,Thawed,0.04,0,,No Reminder Due
+Bakery,Freezer,Fresh / Normal,41.295,1,4.0,No Reminder Due
+Vegetables,Freezer,Opened,82.697,0,,No Reminder Due
+Eggs,Room temperature,Thawed,0.015,0,,No Reminder Due
+Bakery,Refrigerator,Fresh / Normal,2.186,1,12.0,No Reminder Due
+Eggs,Refrigerator,Fresh / Normal,10.952,1,9.0,No Reminder Due
+Bakery,Room temperature,Fresh / Normal,4.414,1,-4.0,Date Passed
+Other,Refrigerator,Fresh / Normal,0.028,1,4.0,No Reminder Due
+Dairy,Freezer,Looks or smells unusual,132.249,1,0.0,Check Food
+Beverages,Refrigerator,Opened,9.457,0,,Check Food
+Eggs,Refrigerator,Fresh / Normal,14.002,0,,No Reminder Due
+Eggs,Room temperature,Fresh / Normal,0.077,1,1.0,Reminder Due Soon
+Bakery,Room temperature,Opened,0.532,1,14.0,No Reminder Due
+Meat & Poultry,Freezer,Thawed,98.019,0,,No Reminder Due
+Bakery,Refrigerator,Fresh / Normal,3.433,1,12.0,No Reminder Due
+Cooked Leftovers,Refrigerator,Fresh / Normal,0.713,1,8.0,No Reminder Due
+Bakery,Refrigerator,Thawed,3.021,1,2.0,Check Food
+Beverages,Freezer,Looks or smells unusual,50.093,1,10.0,Check Food
+Cooked Leftovers,Freezer,Thawed,104.917,1,10.0,Check Food
+Seafood,Freezer,Thawed,57.593,0,,No Reminder Due
+Bakery,Freezer,Opened,75.587,0,,Reminder Due Soon
+Eggs,Freezer,Fresh / Normal,98.587,1,15.0,No Reminder Due
+Seafood,Refrigerator,Fresh / Normal,0.277,1,4.0,No Reminder Due
+Meat & Poultry,Refrigerator,Cooked / Prepared,0.787,0,,No Reminder Due
+Cooked Leftovers,Freezer,Opened,27.906,1,13.0,No Reminder Due
+Eggs,Freezer,Opened,42.803,1,-2.0,Date Passed
+Fruits,Room temperature,Opened,0.561,1,0.0,Reminder Due Soon
+Bakery,Room temperature,Fresh / Normal,3.873,1,-2.0,Date Passed
+Cooked Leftovers,Freezer,Fresh / Normal,34.081,0,,No Reminder Due
+Other,Freezer,Cooked / Prepared,1.486,1,10.0,No Reminder Due
+Cooked Leftovers,Freezer,Fresh / Normal,32.492,0,,No Reminder Due
+Eggs,Refrigerator,Fresh / Normal,1.224,1,7.0,No Reminder Due
+Vegetables,Freezer,Fresh / Normal,75.522,1,13.0,No Reminder Due
+Dairy,Freezer,Opened,133.074,1,4.0,Check Food
+Eggs,Freezer,Fresh / Normal,268.449,1,15.0,Check Food
+Packaged / Pantry,Freezer,Looks or smells unusual,146.109,1,9.0,Check Food
+Seafood,Freezer,Opened,30.866,0,,No Reminder Due
+Bakery,Refrigerator,Fresh / Normal,0.049,1,8.0,No Reminder Due
+Other,Refrigerator,Fresh / Normal,12.918,1,10.0,No Reminder Due
+Cooked Leftovers,Room temperature,Fresh / Normal,0.133,0,,Check Food
+Bakery,Refrigerator,Looks or smells unusual,9.722,1,7.0,Check Food
+Bakery,Room temperature,Fresh / Normal,4.381,1,12.0,Check Food
+Dairy,Room temperature,Looks or smells unusual,0.042,1,0.0,Check Food
+Other,Refrigerator,Opened,25.279,0,,No Reminder Due
+Vegetables,Freezer,Fresh / Normal,17.689,1,4.0,No Reminder Due
+Beverages,Room temperature,Fresh / Normal,17.841,1,10.0,No Reminder Due
+Eggs,Freezer,Opened,196.118,1,3.0,Check Food
+Other,Freezer,Fresh / Normal,7.091,1,3.0,No Reminder Due
+Other,Freezer,Opened,21.437,1,4.0,No Reminder Due
+Bakery,Freezer,Fresh / Normal,57.912,1,9.0,No Reminder Due
+Other,Freezer,Cooked / Prepared,27.269,1,-3.0,Date Passed
+Cooked Leftovers,Refrigerator,Cooked / Prepared,2.126,0,,No Reminder Due
+Bakery,Room temperature,Fresh / Normal,0.787,1,-4.0,Date Passed
+Dairy,Room temperature,Fresh / Normal,0.037,1,0.0,Reminder Due Soon
+Eggs,Refrigerator,Fresh / Normal,22.039,1,1.0,Check Food
+Beverages,Room temperature,Fresh / Normal,21.941,0,,No Reminder Due
+Cooked Leftovers,Refrigerator,Fresh / Normal,6.077,1,9.0,Check Food
+Vegetables,Freezer,Fresh / Normal,194.073,0,,Reminder Due Soon
+Dairy,Refrigerator,Cooked / Prepared,7.417,1,0.0,Check Food
+Vegetables,Refrigerator,Fresh / Normal,4.956,0,,No Reminder Due
+Cooked Leftovers,Freezer,Fresh / Normal,100.207,1,9.0,Check Food
+Fruits,Refrigerator,Fresh / Normal,7.621,1,6.0,Check Food
+Packaged / Pantry,Freezer,Fresh / Normal,171.889,0,,Reminder Due Soon
+Cooked Leftovers,Freezer,Thawed,121.746,1,-3.0,Date Passed
+Bakery,Room temperature,Looks or smells unusual,1.44,1,3.0,Check Food
+Fruits,Freezer,Fresh / Normal,265.725,1,-4.0,Date Passed
+Seafood,Room temperature,Thawed,0.106,1,5.0,Check Food
+Vegetables,Refrigerator,Fresh / Normal,9.838,0,,Check Food
+Other,Freezer,Thawed,3.651,0,,No Reminder Due
+Fruits,Refrigerator,Fresh / Normal,5.215,1,14.0,No Reminder Due
+Other,Room temperature,Thawed,22.465,0,,No Reminder Due
+Cooked Leftovers,Freezer,Fresh / Normal,56.113,1,14.0,No Reminder Due
+Beverages,Refrigerator,Thawed,1.518,1,12.0,Reminder Due Soon
+Seafood,Freezer,Cooked / Prepared,41.284,0,,No Reminder Due
+Fruits,Room temperature,Cooked / Prepared,2.007,0,,No Reminder Due
+Vegetables,Freezer,Fresh / Normal,278.154,0,,Check Food
+Meat & Poultry,Freezer,Thawed,15.365,1,-2.0,Date Passed
+Vegetables,Room temperature,Opened,5.124,1,4.0,Check Food
+Beverages,Room temperature,Cooked / Prepared,6.834,0,,No Reminder Due
+Bakery,Freezer,Looks or smells unusual,32.801,1,-1.0,Date Passed
+Eggs,Room temperature,Fresh / Normal,0.048,0,,No Reminder Due
+Seafood,Refrigerator,Fresh / Normal,1.556,1,-1.0,Date Passed
+Seafood,Freezer,Fresh / Normal,45.828,1,-5.0,Date Passed
+Vegetables,Freezer,Opened,27.187,1,9.0,No Reminder Due
+Packaged / Pantry,Room temperature,Fresh / Normal,13.953,1,7.0,No Reminder Due
+Beverages,Room temperature,Thawed,27.32,1,8.0,No Reminder Due
+Cooked Leftovers,Room temperature,Fresh / Normal,0.044,0,,No Reminder Due
+Meat & Poultry,Freezer,Thawed,29.693,1,-2.0,Date Passed
+Cooked Leftovers,Room temperature,Cooked / Prepared,0.047,1,1.0,Reminder Due Soon
+Seafood,Room temperature,Opened,0.047,0,,No Reminder Due
+Meat & Poultry,Freezer,Cooked / Prepared,220.856,1,-1.0,Date Passed
+Other,Refrigerator,Fresh / Normal,23.221,0,,No Reminder Due
+Packaged / Pantry,Room temperature,Fresh / Normal,7.048,1,-4.0,Date Passed
+Seafood,Room temperature,Fresh / Normal,0.039,1,10.0,No Reminder Due
+Beverages,Freezer,Opened,62.992,0,,No Reminder Due
+Eggs,Room temperature,Thawed,0.084,0,,Check Food
+Cooked Leftovers,Freezer,Fresh / Normal,46.383,1,5.0,No Reminder Due
+Dairy,Refrigerator,Thawed,0.149,1,-5.0,Date Passed
+Cooked Leftovers,Freezer,Fresh / Normal,128.985,1,6.0,Check Food
+Packaged / Pantry,Room temperature,Fresh / Normal,4.522,1,11.0,No Reminder Due
+Vegetables,Freezer,Fresh / Normal,383.574,1,12.0,Check Food
+Packaged / Pantry,Room temperature,Looks or smells unusual,6.766,1,-2.0,Date Passed
+Fruits,Freezer,Fresh / Normal,313.659,1,-4.0,Date Passed
+Vegetables,Room temperature,Opened,0.355,1,6.0,No Reminder Due
+Bakery,Refrigerator,Fresh / Normal,1.623,0,,No Reminder Due
+Cooked Leftovers,Freezer,Opened,51.478,1,0.0,Reminder Due Soon
+Fruits,Freezer,Fresh / Normal,173.856,1,1.0,Reminder Due Soon
+Vegetables,Room temperature,Fresh / Normal,3.123,1,-3.0,Date Passed
+Cooked Leftovers,Room temperature,Fresh / Normal,0.078,1,10.0,Reminder Due Soon
+Cooked Leftovers,Refrigerator,Looks or smells unusual,2.647,0,,Check Food
+Other,Freezer,Looks or smells unusual,8.714,1,-5.0,Date Passed
+Beverages,Room temperature,Fresh / Normal,29.845,1,2.0,Reminder Due Soon
+Dairy,Room temperature,Opened,0.11,0,,Check Food
+Seafood,Freezer,Fresh / Normal,3.283,0,,No Reminder Due
+Beverages,Room temperature,Opened,4.941,1,7.0,No Reminder Due
+Fruits,Room temperature,Fresh / Normal,4.897,0,,Reminder Due Soon
+Packaged / Pantry,Freezer,Fresh / Normal,266.801,0,,Check Food
+Other,Room temperature,Fresh / Normal,15.184,0,,No Reminder Due
+Beverages,Freezer,Fresh / Normal,79.819,1,1.0,Reminder Due Soon
+Vegetables,Refrigerator,Fresh / Normal,2.395,0,,No Reminder Due
+Fruits,Room temperature,Fresh / Normal,1.401,1,1.0,Reminder Due Soon
+Fruits,Freezer,Opened,21.271,1,13.0,No Reminder Due
+Packaged / Pantry,Refrigerator,Thawed,1.989,1,6.0,Reminder Due Soon
+Cooked Leftovers,Room temperature,Fresh / Normal,0.111,0,,Check Food
+Other,Room temperature,Thawed,8.304,0,,No Reminder Due
+Fruits,Refrigerator,Opened,2.434,1,-4.0,Date Passed
+Cooked Leftovers,Refrigerator,Fresh / Normal,3.773,1,-4.0,Date Passed
+Cooked Leftovers,Room temperature,Looks or smells unusual,0.017,1,15.0,Check Food
+Vegetables,Freezer,Cooked / Prepared,140.687,0,,No Reminder Due
+Seafood,Refrigerator,Fresh / Normal,2.293,0,,Check Food
+Bakery,Room temperature,Fresh / Normal,1.116,1,0.0,Reminder Due Soon
+Seafood,Freezer,Opened,76.077,0,,Reminder Due Soon
+Dairy,Freezer,Fresh / Normal,97.04,1,3.0,Check Food
+Meat & Poultry,Room temperature,Fresh / Normal,0.071,0,,Reminder Due Soon
+Cooked Leftovers,Freezer,Opened,98.152,1,-2.0,Date Passed
+Bakery,Refrigerator,Looks or smells unusual,4.962,1,13.0,Check Food
+Beverages,Room temperature,Opened,7.719,1,12.0,No Reminder Due
+Meat & Poultry,Refrigerator,Fresh / Normal,0.063,1,4.0,No Reminder Due
+Cooked Leftovers,Room temperature,Fresh / Normal,0.01,1,13.0,No Reminder Due
+Seafood,Refrigerator,Thawed,1.295,1,15.0,No Reminder Due
+Seafood,Freezer,Fresh / Normal,42.17,1,5.0,No Reminder Due
+Meat & Poultry,Freezer,Fresh / Normal,29.644,1,6.0,No Reminder Due
+Beverages,Freezer,Fresh / Normal,0.641,1,-4.0,Date Passed
+Seafood,Room temperature,Thawed,0.054,1,11.0,No Reminder Due
+Beverages,Room temperature,Opened,5.524,1,9.0,No Reminder Due
+Eggs,Freezer,Fresh / Normal,84.463,1,6.0,No Reminder Due
+Packaged / Pantry,Refrigerator,Opened,7.314,1,3.0,Check Food
+Seafood,Freezer,Thawed,69.02,1,-3.0,Date Passed
+Eggs,Refrigerator,Thawed,2.406,0,,Check Food
+Other,Freezer,Fresh / Normal,12.799,1,15.0,No Reminder Due
+Bakery,Refrigerator,Fresh / Normal,9.919,1,7.0,Check Food
+Seafood,Refrigerator,Fresh / Normal,2.784,0,,Check Food
+Meat & Poultry,Freezer,Looks or smells unusual,252.07,0,,Check Food
+Packaged / Pantry,Room temperature,Fresh / Normal,22.694,1,14.0,No Reminder Due
+Bakery,Room temperature,Cooked / Prepared,6.129,1,-2.0,Date Passed
+Other,Room temperature,Fresh / Normal,5.992,1,-2.0,Date Passed
+Beverages,Freezer,Fresh / Normal,87.617,1,6.0,Reminder Due Soon
+Vegetables,Freezer,Thawed,256.576,0,,Check Food
+Other,Freezer,Looks or smells unusual,7.242,1,12.0,Check Food
+Meat & Poultry,Room temperature,Opened,0.097,1,6.0,Check Food
+Meat & Poultry,Refrigerator,Opened,3.196,1,15.0,Check Food
+Seafood,Room temperature,Fresh / Normal,0.033,1,0.0,Reminder Due Soon
+Cooked Leftovers,Freezer,Fresh / Normal,57.032,1,-4.0,Date Passed
+Other,Refrigerator,Fresh / Normal,2.595,0,,No Reminder Due
+Eggs,Room temperature,Fresh / Normal,0.019,1,13.0,No Reminder Due
+Other,Freezer,Looks or smells unusual,13.133,1,7.0,Check Food
+Beverages,Refrigerator,Fresh / Normal,1.801,1,10.0,No Reminder Due
+Cooked Leftovers,Room temperature,Cooked / Prepared,0.089,0,,Check Food
+Seafood,Refrigerator,Fresh / Normal,0.135,0,,No Reminder Due
+Bakery,Freezer,Fresh / Normal,9.996,0,,No Reminder Due
+Beverages,Room temperature,Cooked / Prepared,6.113,0,,No Reminder Due
+Eggs,Room temperature,Cooked / Prepared,0.087,0,,Check Food
+Cooked Leftovers,Room temperature,Opened,0.056,1,1.0,Reminder Due Soon
+Packaged / Pantry,Freezer,Fresh / Normal,40.95,0,,No Reminder Due
+Bakery,Freezer,Looks or smells unusual,61.611,0,,Check Food
+Packaged / Pantry,Refrigerator,Fresh / Normal,1.628,0,,No Reminder Due
+Packaged / Pantry,Room temperature,Opened,19.506,0,,No Reminder Due
+Dairy,Refrigerator,Cooked / Prepared,2.424,0,,No Reminder Due
+Seafood,Refrigerator,Cooked / Prepared,2.507,1,-1.0,Date Passed
+Seafood,Refrigerator,Cooked / Prepared,0.275,1,3.0,No Reminder Due
+Fruits,Refrigerator,Opened,4.342,0,,No Reminder Due
+Other,Refrigerator,Fresh / Normal,12.349,1,4.0,No Reminder Due
+Cooked Leftovers,Refrigerator,Cooked / Prepared,0.261,0,,No Reminder Due
+Seafood,Refrigerator,Fresh / Normal,0.469,1,3.0,No Reminder Due
+Beverages,Freezer,Fresh / Normal,32.617,0,,No Reminder Due
+Cooked Leftovers,Room temperature,Cooked / Prepared,0.044,1,0.0,Reminder Due Soon
+Bakery,Room temperature,Opened,0.2,0,,No Reminder Due
+Fruits,Refrigerator,Fresh / Normal,4.31,1,11.0,No Reminder Due
+Beverages,Refrigerator,Looks or smells unusual,7.235,0,,Check Food
+Dairy,Refrigerator,Looks or smells unusual,6.731,1,12.0,Check Food
+Dairy,Freezer,Cooked / Prepared,61.478,0,,No Reminder Due
+Seafood,Refrigerator,Thawed,0.653,0,,No Reminder Due
+Beverages,Refrigerator,Fresh / Normal,9.093,0,,Check Food
+Dairy,Room temperature,Looks or smells unusual,0.036,0,,Check Food
+Eggs,Freezer,Opened,128.333,1,-5.0,Date Passed
+Vegetables,Freezer,Fresh / Normal,357.756,1,10.0,Check Food
+Meat & Poultry,Refrigerator,Opened,0.614,1,8.0,No Reminder Due
+Bakery,Freezer,Fresh / Normal,106.552,1,-3.0,Date Passed
+Cooked Leftovers,Room temperature,Cooked / Prepared,0.019,1,9.0,No Reminder Due
+Meat & Poultry,Freezer,Fresh / Normal,272.01,1,8.0,Check Food
+Other,Room temperature,Fresh / Normal,6.288,1,6.0,No Reminder Due
+Vegetables,Freezer,Fresh / Normal,0.121,1,15.0,No Reminder Due
+Other,Freezer,Thawed,27.377,0,,No Reminder Due
+Packaged / Pantry,Refrigerator,Fresh / Normal,8.354,1,14.0,Check Food
+Bakery,Room temperature,Fresh / Normal,5.507,1,-1.0,Date Passed
+Other,Room temperature,Fresh / Normal,0.706,1,12.0,No Reminder Due
+Meat & Poultry,Freezer,Fresh / Normal,180.302,0,,Check Food
+Fruits,Freezer,Fresh / Normal,153.61,0,,No Reminder Due
+Cooked Leftovers,Refrigerator,Fresh / Normal,3.438,1,7.0,Reminder Due Soon
+Beverages,Refrigerator,Fresh / Normal,10.988,1,5.0,Check Food
+Seafood,Freezer,Opened,63.888,1,-2.0,Date Passed
+Seafood,Freezer,Cooked / Prepared,40.565,0,,No Reminder Due
+Other,Refrigerator,Fresh / Normal,28.637,0,,No Reminder Due
+Beverages,Freezer,Thawed,74.709,1,3.0,Reminder Due Soon
+Packaged / Pantry,Freezer,Fresh / Normal,174.723,1,10.0,Reminder Due Soon
+Beverages,Refrigerator,Looks or smells unusual,6.156,1,4.0,Check Food
+Vegetables,Refrigerator,Fresh / Normal,10.882,0,,Check Food
+Vegetables,Room temperature,Opened,1.842,1,9.0,No Reminder Due
+Cooked Leftovers,Freezer,Fresh / Normal,95.341,0,,Check Food
+Packaged / Pantry,Refrigerator,Fresh / Normal,7.508,1,0.0,Check Food
+Other,Refrigerator,Fresh / Normal,5.241,0,,No Reminder Due
+Eggs,Room temperature,Cooked / Prepared,0.021,1,0.0,Reminder Due Soon
+Vegetables,Room temperature,Fresh / Normal,0.12,1,2.0,Reminder Due Soon
+Packaged / Pantry,Room temperature,Fresh / Normal,29.467,0,,No Reminder Due
+Cooked Leftovers,Refrigerator,Cooked / Prepared,4.469,1,12.0,Check Food
+Vegetables,Refrigerator,Cooked / Prepared,8.027,0,,Check Food
+Seafood,Freezer,Fresh / Normal,70.492,0,,Reminder Due Soon
+Eggs,Freezer,Cooked / Prepared,168.369,1,14.0,Reminder Due Soon
+Vegetables,Refrigerator,Thawed,1.324,1,8.0,No Reminder Due
+Fruits,Freezer,Opened,25.845,0,,No Reminder Due
+Eggs,Room temperature,Opened,0.074,1,4.0,Reminder Due Soon
+Vegetables,Freezer,Cooked / Prepared,18.096,0,,No Reminder Due
+Eggs,Room temperature,Cooked / Prepared,0.084,1,1.0,Check Food
+Meat & Poultry,Freezer,Thawed,174.41,1,8.0,Reminder Due Soon
+Eggs,Refrigerator,Opened,20.649,1,1.0,Reminder Due Soon
+Packaged / Pantry,Freezer,Cooked / Prepared,221.394,1,8.0,Check Food
+Cooked Leftovers,Refrigerator,Fresh / Normal,2.693,1,3.0,No Reminder Due
+Packaged / Pantry,Refrigerator,Cooked / Prepared,2.941,0,,No Reminder Due
+Fruits,Refrigerator,Opened,4.384,0,,No Reminder Due
+Vegetables,Room temperature,Fresh / Normal,3.985,1,11.0,Reminder Due Soon
+Vegetables,Room temperature,Fresh / Normal,1.169,0,,No Reminder Due
+Dairy,Refrigerator,Opened,4.036,1,4.0,No Reminder Due
+Other,Refrigerator,Thawed,23.984,1,11.0,No Reminder Due
+Beverages,Room temperature,Fresh / Normal,15.851,1,3.0,No Reminder Due
+Dairy,Refrigerator,Cooked / Prepared,2.88,0,,No Reminder Due
+Cooked Leftovers,Freezer,Thawed,88.587,0,,Reminder Due Soon
+Bakery,Freezer,Opened,74.288,0,,Reminder Due Soon
+Vegetables,Refrigerator,Opened,8.45,1,12.0,Check Food
+Packaged / Pantry,Freezer,Fresh / Normal,168.206,1,2.0,Reminder Due Soon
+Packaged / Pantry,Refrigerator,Fresh / Normal,2.187,0,,No Reminder Due
+Meat & Poultry,Room temperature,Opened,0.014,1,6.0,No Reminder Due
+Packaged / Pantry,Refrigerator,Fresh / Normal,1.388,0,,No Reminder Due
+Beverages,Room temperature,Fresh / Normal,24.71,1,12.0,No Reminder Due
+Packaged / Pantry,Refrigerator,Cooked / Prepared,6.007,1,11.0,Reminder Due Soon
+Packaged / Pantry,Freezer,Fresh / Normal,177.433,0,,Reminder Due Soon
+Packaged / Pantry,Room temperature,Looks or smells unusual,20.581,1,6.0,Check Food
+Eggs,Refrigerator,Thawed,3.19,1,15.0,Check Food
+Meat & Poultry,Room temperature,Fresh / Normal,0.009,0,,No Reminder Due
+Beverages,Room temperature,Thawed,19.515,1,11.0,No Reminder Due
+Eggs,Room temperature,Fresh / Normal,0.037,0,,No Reminder Due
+Meat & Poultry,Room temperature,Thawed,0.021,0,,No Reminder Due
+Packaged / Pantry,Freezer,Cooked / Prepared,263.249,1,0.0,Check Food
+Bakery,Refrigerator,Cooked / Prepared,10.046,0,,Check Food
+Bakery,Freezer,Fresh / Normal,137.373,0,,Check Food
+Dairy,Refrigerator,Fresh / Normal,4.283,0,,No Reminder Due
+Other,Refrigerator,Fresh / Normal,18.285,1,10.0,No Reminder Due
+Beverages,Freezer,Fresh / Normal,7.655,1,0.0,Reminder Due Soon
+Other,Freezer,Looks or smells unusual,14.1,1,10.0,Check Food
+Other,Freezer,Opened,10.547,0,,No Reminder Due
+Beverages,Room temperature,Thawed,7.284,1,1.0,Reminder Due Soon
+Seafood,Freezer,Cooked / Prepared,79.053,0,,Reminder Due Soon
+Dairy,Room temperature,Looks or smells unusual,0.133,1,-4.0,Date Passed
+Meat & Poultry,Room temperature,Fresh / Normal,0.098,0,,Check Food
+Other,Room temperature,Thawed,13.891,0,,No Reminder Due
+Meat & Poultry,Room temperature,Fresh / Normal,0.015,0,,No Reminder Due
+Meat & Poultry,Freezer,Opened,261.291,0,,Check Food
+Vegetables,Freezer,Fresh / Normal,232.414,0,,Reminder Due Soon
+Beverages,Freezer,Opened,104.674,0,,Check Food
+Beverages,Room temperature,Fresh / Normal,22.649,1,11.0,No Reminder Due
+Dairy,Freezer,Cooked / Prepared,75.402,0,,Reminder Due Soon
+Bakery,Refrigerator,Fresh / Normal,3.928,1,1.0,Reminder Due Soon
+Fruits,Room temperature,Thawed,5.767,1,4.0,Check Food
+Eggs,Freezer,Cooked / Prepared,71.474,1,-2.0,Date Passed
+Fruits,Room temperature,Cooked / Prepared,2.387,1,2.0,Reminder Due Soon
+Bakery,Freezer,Fresh / Normal,125.855,1,6.0,Check Food
+Packaged / Pantry,Freezer,Fresh / Normal,108.574,1,7.0,No Reminder Due
+Seafood,Freezer,Opened,128.044,0,,Check Food
+Vegetables,Room temperature,Fresh / Normal,5.026,0,,Check Food
+Seafood,Room temperature,Fresh / Normal,0.034,1,13.0,No Reminder Due
+Vegetables,Room temperature,Opened,3.288,1,14.0,Reminder Due Soon
+Seafood,Freezer,Fresh / Normal,93.026,0,,Check Food
+Vegetables,Room temperature,Fresh / Normal,5.288,0,,Check Food
+Bakery,Refrigerator,Fresh / Normal,7.136,1,-3.0,Date Passed
+Vegetables,Refrigerator,Fresh / Normal,1.855,1,6.0,No Reminder Due
+Vegetables,Freezer,Cooked / Prepared,107.909,1,-2.0,Date Passed
+Seafood,Refrigerator,Cooked / Prepared,3.071,1,2.0,Check Food
+Dairy,Freezer,Fresh / Normal,121.358,1,0.0,Check Food
+Meat & Poultry,Room temperature,Opened,0.069,0,,Reminder Due Soon
+Fruits,Refrigerator,Cooked / Prepared,1.306,0,,No Reminder Due
+Eggs,Freezer,Fresh / Normal,239.975,1,9.0,Check Food
+Meat & Poultry,Room temperature,Opened,0.118,0,,Check Food
+Beverages,Refrigerator,Fresh / Normal,1.497,0,,No Reminder Due
+Vegetables,Freezer,Opened,104.666,1,-3.0,Date Passed
+Vegetables,Freezer,Cooked / Prepared,298.437,0,,Check Food
+Seafood,Refrigerator,Opened,0.03,0,,No Reminder Due
+Packaged / Pantry,Refrigerator,Opened,1.896,0,,No Reminder Due
+Beverages,Room temperature,Thawed,1.378,0,,No Reminder Due
+Bakery,Refrigerator,Fresh / Normal,2.793,1,-1.0,Date Passed
+Vegetables,Refrigerator,Fresh / Normal,7.343,0,,Check Food
+Seafood,Refrigerator,Opened,0.473,0,,No Reminder Due
+Bakery,Room temperature,Fresh / Normal,0.365,0,,No Reminder Due
+Dairy,Freezer,Cooked / Prepared,49.972,1,2.0,Reminder Due Soon
+Fruits,Freezer,Fresh / Normal,165.207,0,,No Reminder Due
+Beverages,Freezer,Fresh / Normal,96.2,1,13.0,Check Food
+Dairy,Refrigerator,Opened,3.476,0,,No Reminder Due
+Meat & Poultry,Refrigerator,Cooked / Prepared,0.917,0,,No Reminder Due
+Seafood,Freezer,Fresh / Normal,6.74,1,11.0,No Reminder Due
+Fruits,Room temperature,Looks or smells unusual,1.768,0,,Check Food
+Cooked Leftovers,Freezer,Fresh / Normal,95.892,1,-3.0,Date Passed
+Fruits,Refrigerator,Fresh / Normal,7.471,1,12.0,Check Food
+Vegetables,Refrigerator,Fresh / Normal,10.64,1,8.0,Check Food
+Meat & Poultry,Freezer,Looks or smells unusual,261.488,1,9.0,Check Food
+Meat & Poultry,Freezer,Opened,234.988,0,,Check Food
+Cooked Leftovers,Room temperature,Opened,0.016,1,6.0,No Reminder Due
+Meat & Poultry,Freezer,Opened,188.748,0,,Check Food
+Dairy,Freezer,Thawed,109.45,0,,Check Food
+Beverages,Room temperature,Opened,3.614,1,-5.0,Date Passed
+Other,Refrigerator,Thawed,22.315,0,,No Reminder Due
+Fruits,Room temperature,Thawed,1.063,0,,No Reminder Due
+Meat & Poultry,Room temperature,Thawed,0.02,1,6.0,No Reminder Due
+Other,Refrigerator,Fresh / Normal,13.68,1,-2.0,Date Passed
+Cooked Leftovers,Refrigerator,Looks or smells unusual,5.611,0,,Check Food
+Meat & Poultry,Refrigerator,Fresh / Normal,1.363,1,11.0,No Reminder Due
+Dairy,Room temperature,Looks or smells unusual,0.07,1,11.0,Check Food
+Packaged / Pantry,Freezer,Fresh / Normal,76.655,1,10.0,No Reminder Due
+Eggs,Refrigerator,Thawed,0.721,1,6.0,No Reminder Due
+Eggs,Refrigerator,Fresh / Normal,19.168,0,,Reminder Due Soon
+Meat & Poultry,Room temperature,Opened,0.054,1,14.0,No Reminder Due
+Eggs,Room temperature,Thawed,0.065,1,1.0,Reminder Due Soon
+Dairy,Refrigerator,Fresh / Normal,10.288,1,3.0,Check Food
+Dairy,Refrigerator,Thawed,1.675,0,,Reminder Due Soon
+Seafood,Freezer,Fresh / Normal,123.287,1,2.0,Check Food
+Meat & Poultry,Refrigerator,Opened,0.267,1,9.0,No Reminder Due
+Beverages,Freezer,Fresh / Normal,50.202,0,,No Reminder Due
+Fruits,Room temperature,Fresh / Normal,4.93,0,,Reminder Due Soon
+Dairy,Refrigerator,Fresh / Normal,0.729,1,15.0,No Reminder Due
+Dairy,Freezer,Fresh / Normal,79.612,1,6.0,Reminder Due Soon
+Packaged / Pantry,Refrigerator,Fresh / Normal,10.828,0,,Check Food
+Packaged / Pantry,Refrigerator,Fresh / Normal,6.724,1,-3.0,Date Passed
+Fruits,Freezer,Fresh / Normal,365.587,1,-4.0,Date Passed
+Beverages,Freezer,Fresh / Normal,124.294,1,3.0,Check Food
+Seafood,Refrigerator,Fresh / Normal,2.198,1,15.0,Check Food
+Dairy,Refrigerator,Fresh / Normal,0.061,1,1.0,Reminder Due Soon
+Dairy,Refrigerator,Fresh / Normal,7.181,0,,Check Food
+Cooked Leftovers,Refrigerator,Fresh / Normal,1.58,0,,No Reminder Due
+Bakery,Refrigerator,Fresh / Normal,4.984,1,10.0,No Reminder Due
+Meat & Poultry,Room temperature,Opened,0.082,0,,Reminder Due Soon
+Meat & Poultry,Freezer,Fresh / Normal,264.506,0,,Check Food
+Beverages,Room temperature,Cooked / Prepared,10.754,1,11.0,No Reminder Due
+Packaged / Pantry,Freezer,Fresh / Normal,129.969,1,0.0,Reminder Due Soon
+Dairy,Refrigerator,Cooked / Prepared,6.293,1,14.0,Reminder Due Soon
+Seafood,Freezer,Thawed,93.943,0,,Check Food
+Beverages,Freezer,Fresh / Normal,100.591,0,,Check Food
+Eggs,Freezer,Fresh / Normal,123.297,1,-1.0,Date Passed
+Other,Freezer,Fresh / Normal,11.145,1,9.0,No Reminder Due
+Dairy,Refrigerator,Opened,9.087,0,,Check Food
+Bakery,Refrigerator,Cooked / Prepared,8.058,1,9.0,Check Food
+Vegetables,Room temperature,Thawed,0.871,1,7.0,No Reminder Due
+Fruits,Freezer,Fresh / Normal,159.588,0,,No Reminder Due
+Vegetables,Refrigerator,Opened,11.085,1,3.0,Check Food
+Fruits,Refrigerator,Fresh / Normal,1.648,0,,No Reminder Due
+Vegetables,Freezer,Fresh / Normal,12.054,0,,No Reminder Due
+Eggs,Freezer,Cooked / Prepared,110.013,1,-5.0,Date Passed
+Packaged / Pantry,Refrigerator,Fresh / Normal,5.974,0,,Reminder Due Soon
+Eggs,Refrigerator,Fresh / Normal,14.94,1,0.0,Reminder Due Soon
+Vegetables,Refrigerator,Opened,1.27,1,-2.0,Date Passed
+Meat & Poultry,Refrigerator,Opened,1.388,0,,No Reminder Due
+Other,Freezer,Thawed,6.77,1,-3.0,Date Passed
+Dairy,Freezer,Cooked / Prepared,120.696,1,3.0,Check Food
+Other,Freezer,Fresh / Normal,1.116,0,,No Reminder Due
+Meat & Poultry,Refrigerator,Fresh / Normal,3.0,0,,Check Food
+Cooked Leftovers,Freezer,Fresh / Normal,119.986,1,4.0,Check Food
+Eggs,Refrigerator,Thawed,2.943,0,,Check Food
+Cooked Leftovers,Room temperature,Opened,0.033,0,,No Reminder Due
+Meat & Poultry,Freezer,Fresh / Normal,202.876,1,-3.0,Date Passed
+Eggs,Room temperature,Fresh / Normal,0.107,1,-2.0,Date Passed
+Dairy,Room temperature,Fresh / Normal,0.079,1,4.0,Reminder Due Soon
+Dairy,Refrigerator,Cooked / Prepared,2.354,0,,No Reminder Due
+Seafood,Room temperature,Fresh / Normal,0.103,1,10.0,Check Food
+Eggs,Freezer,Thawed,161.49,1,-4.0,Date Passed
+Seafood,Room temperature,Fresh / Normal,0.119,0,,Check Food
+Packaged / Pantry,Room temperature,Thawed,29.731,1,-3.0,Date Passed
+Beverages,Refrigerator,Opened,3.123,0,,No Reminder Due
+Beverages,Room temperature,Opened,15.645,1,-1.0,Date Passed
+Cooked Leftovers,Room temperature,Fresh / Normal,0.092,0,,Check Food
+Dairy,Freezer,Cooked / Prepared,22.575,0,,No Reminder Due
+Dairy,Room temperature,Fresh / Normal,0.092,1,-4.0,Date Passed
+Fruits,Freezer,Opened,230.525,1,9.0,Reminder Due Soon
+Seafood,Freezer,Thawed,15.826,1,2.0,Reminder Due Soon
+Seafood,Room temperature,Opened,0.054,1,12.0,No Reminder Due
+Eggs,Freezer,Looks or smells unusual,146.652,1,12.0,Check Food
+Beverages,Room temperature,Fresh / Normal,10.108,1,2.0,Reminder Due Soon
+Vegetables,Room temperature,Thawed,5.796,0,,Check Food
+Cooked Leftovers,Freezer,Fresh / Normal,91.861,0,,Check Food
+Eggs,Room temperature,Opened,0.092,0,,Check Food
+Vegetables,Room temperature,Cooked / Prepared,2.772,1,13.0,No Reminder Due
+Fruits,Freezer,Looks or smells unusual,195.059,1,1.0,Check Food
+Vegetables,Freezer,Opened,199.7,1,14.0,Reminder Due Soon
+Packaged / Pantry,Room temperature,Fresh / Normal,6.17,1,2.0,Reminder Due Soon
+Meat & Poultry,Room temperature,Thawed,0.007,0,,No Reminder Due
+Cooked Leftovers,Room temperature,Fresh / Normal,0.027,1,9.0,No Reminder Due
+Packaged / Pantry,Refrigerator,Opened,7.904,0,,Check Food
+Cooked Leftovers,Freezer,Cooked / Prepared,24.959,0,,No Reminder Due
+Bakery,Freezer,Fresh / Normal,140.579,1,0.0,Check Food
+Eggs,Refrigerator,Opened,10.714,1,2.0,Reminder Due Soon
+Vegetables,Refrigerator,Cooked / Prepared,1.742,1,10.0,No Reminder Due
+Fruits,Room temperature,Fresh / Normal,1.661,1,-4.0,Date Passed
+Fruits,Refrigerator,Cooked / Prepared,10.777,1,-1.0,Date Passed
+Fruits,Freezer,Fresh / Normal,6.915,0,,No Reminder Due
+Fruits,Freezer,Looks or smells unusual,205.166,1,-3.0,Date Passed
+Eggs,Refrigerator,Thawed,2.211,1,-1.0,Date Passed
+Vegetables,Freezer,Cooked / Prepared,300.617,1,14.0,Check Food
+Dairy,Refrigerator,Fresh / Normal,5.227,1,-3.0,Date Passed
+Other,Freezer,Fresh / Normal,3.273,0,,No Reminder Due
+Fruits,Freezer,Fresh / Normal,194.652,1,13.0,Reminder Due Soon
+Packaged / Pantry,Refrigerator,Opened,10.202,0,,Check Food
+Vegetables,Room temperature,Fresh / Normal,0.98,0,,No Reminder Due
+Beverages,Freezer,Cooked / Prepared,109.53,1,4.0,Check Food
+Dairy,Refrigerator,Opened,3.064,0,,No Reminder Due
+Other,Room temperature,Opened,21.714,1,-4.0,Date Passed
+Bakery,Room temperature,Cooked / Prepared,4.577,1,-1.0,Date Passed
+Dairy,Freezer,Thawed,35.931,0,,No Reminder Due
+Vegetables,Room temperature,Thawed,2.57,0,,No Reminder Due
+Beverages,Room temperature,Opened,3.451,1,14.0,No Reminder Due
+Beverages,Refrigerator,Fresh / Normal,3.894,0,,No Reminder Due
+Eggs,Refrigerator,Thawed,2.352,0,,Check Food
+Fruits,Room temperature,Fresh / Normal,5.272,1,13.0,Check Food
+Seafood,Room temperature,Fresh / Normal,0.089,0,,Check Food
+Vegetables,Refrigerator,Thawed,0.039,1,0.0,Reminder Due Soon
+Fruits,Refrigerator,Opened,10.246,1,2.0,Check Food
+Seafood,Freezer,Thawed,111.311,1,13.0,Check Food
+Other,Refrigerator,Opened,17.261,0,,No Reminder Due
+Dairy,Refrigerator,Fresh / Normal,8.424,1,-2.0,Date Passed
+Dairy,Freezer,Cooked / Prepared,93.779,1,2.0,Check Food
+Cooked Leftovers,Refrigerator,Fresh / Normal,0.285,1,15.0,No Reminder Due
+Meat & Poultry,Freezer,Looks or smells unusual,87.175,1,-5.0,Date Passed
+Fruits,Refrigerator,Fresh / Normal,11.115,0,,Check Food
+Dairy,Room temperature,Fresh / Normal,0.023,1,-4.0,Date Passed
+Other,Freezer,Opened,22.286,0,,No Reminder Due
+Seafood,Refrigerator,Looks or smells unusual,1.658,1,-4.0,Date Passed
+Packaged / Pantry,Room temperature,Opened,21.649,1,-5.0,Date Passed
+Cooked Leftovers,Room temperature,Fresh / Normal,0.112,1,11.0,Check Food
+Meat & Poultry,Refrigerator,Thawed,0.463,0,,No Reminder Due
+Eggs,Freezer,Opened,101.588,1,-1.0,Date Passed
+Fruits,Room temperature,Fresh / Normal,5.523,1,11.0,Check Food
+Fruits,Freezer,Thawed,268.536,1,7.0,Check Food
+Packaged / Pantry,Freezer,Opened,124.739,0,,No Reminder Due
+Seafood,Freezer,Cooked / Prepared,139.523,0,,Check Food
+Cooked Leftovers,Room temperature,Opened,0.1,1,2.0,Check Food
+Fruits,Room temperature,Fresh / Normal,7.734,0,,Check Food
+Seafood,Refrigerator,Fresh / Normal,2.218,1,5.0,Check Food
+Cooked Leftovers,Room temperature,Looks or smells unusual,0.047,1,13.0,Check Food
+Seafood,Freezer,Fresh / Normal,2.509,1,-4.0,Date Passed
+Other,Refrigerator,Fresh / Normal,21.965,1,7.0,No Reminder Due
+Packaged / Pantry,Refrigerator,Fresh / Normal,0.113,0,,No Reminder Due
+Seafood,Freezer,Opened,16.073,0,,No Reminder Due
+Seafood,Room temperature,Fresh / Normal,0.114,1,-3.0,Date Passed
+Dairy,Refrigerator,Thawed,0.875,1,-5.0,Date Passed
+Eggs,Freezer,Thawed,184.842,1,-5.0,Date Passed
+Eggs,Refrigerator,Cooked / Prepared,22.756,1,8.0,Check Food
+Packaged / Pantry,Freezer,Cooked / Prepared,75.719,1,7.0,No Reminder Due
+Other,Room temperature,Cooked / Prepared,11.581,1,9.0,No Reminder Due
+Packaged / Pantry,Freezer,Fresh / Normal,180.931,1,-1.0,Date Passed
+Dairy,Refrigerator,Fresh / Normal,10.266,1,10.0,Check Food
+Bakery,Freezer,Cooked / Prepared,75.614,1,15.0,Reminder Due Soon
+Other,Freezer,Opened,28.764,0,,No Reminder Due
+Seafood,Freezer,Fresh / Normal,127.229,1,12.0,Check Food
+Packaged / Pantry,Room temperature,Cooked / Prepared,24.187,1,0.0,Reminder Due Soon
+Dairy,Refrigerator,Thawed,1.176,1,8.0,No Reminder Due
+Fruits,Freezer,Cooked / Prepared,52.684,1,4.0,No Reminder Due
+Other,Room temperature,Fresh / Normal,13.72,0,,No Reminder Due
+Meat & Poultry,Room temperature,Opened,0.11,1,1.0,Check Food
+Cooked Leftovers,Refrigerator,Thawed,1.785,1,14.0,Reminder Due Soon
+Vegetables,Freezer,Fresh / Normal,342.673,0,,Check Food
+Eggs,Freezer,Fresh / Normal,98.761,1,5.0,No Reminder Due
+Bakery,Freezer,Fresh / Normal,89.713,0,,Reminder Due Soon
+Vegetables,Refrigerator,Opened,5.535,1,-3.0,Date Passed
+Eggs,Freezer,Opened,45.315,1,7.0,No Reminder Due
+Packaged / Pantry,Room temperature,Opened,18.803,0,,No Reminder Due
+Cooked Leftovers,Freezer,Thawed,90.031,1,10.0,Check Food
+Packaged / Pantry,Freezer,Fresh / Normal,120.497,1,1.0,Reminder Due Soon
+Eggs,Refrigerator,Fresh / Normal,9.244,0,,No Reminder Due
+Eggs,Refrigerator,Thawed,1.737,0,,Reminder Due Soon
+Vegetables,Refrigerator,Fresh / Normal,10.942,1,11.0,Check Food
+Other,Freezer,Cooked / Prepared,9.957,1,-3.0,Date Passed
+Cooked Leftovers,Refrigerator,Fresh / Normal,0.607,1,-4.0,Date Passed
+Eggs,Freezer,Opened,131.173,0,,No Reminder Due
+Seafood,Refrigerator,Fresh / Normal,2.488,0,,Check Food
+Fruits,Freezer,Fresh / Normal,306.712,0,,Check Food
+Cooked Leftovers,Freezer,Fresh / Normal,6.332,1,7.0,No Reminder Due
+Other,Room temperature,Fresh / Normal,19.287,0,,No Reminder Due
+Bakery,Freezer,Thawed,56.435,1,4.0,No Reminder Due
+Dairy,Freezer,Opened,140.704,1,6.0,Check Food
+Eggs,Room temperature,Opened,0.047,0,,No Reminder Due
+Eggs,Refrigerator,Fresh / Normal,20.73,1,2.0,Reminder Due Soon
+Vegetables,Freezer,Opened,173.962,0,,No Reminder Due
+Bakery,Room temperature,Thawed,2.399,1,-4.0,Date Passed
+Bakery,Freezer,Opened,79.995,0,,Reminder Due Soon
+Vegetables,Room temperature,Opened,1.012,1,-2.0,Date Passed
+Cooked Leftovers,Freezer,Opened,54.661,0,,No Reminder Due
+Cooked Leftovers,Room temperature,Opened,0.127,1,12.0,Check Food
+Beverages,Room temperature,Fresh / Normal,10.143,1,-2.0,Date Passed
+Bakery,Freezer,Fresh / Normal,91.323,1,-3.0,Date Passed
+Meat & Poultry,Refrigerator,Cooked / Prepared,2.997,1,15.0,Check Food
+Fruits,Refrigerator,Opened,6.253,1,8.0,Reminder Due Soon
+Packaged / Pantry,Room temperature,Cooked / Prepared,14.818,0,,No Reminder Due
+Vegetables,Refrigerator,Looks or smells unusual,4.488,1,0.0,Check Food
+Seafood,Refrigerator,Opened,3.147,0,,Check Food
+Bakery,Room temperature,Looks or smells unusual,4.626,1,0.0,Check Food
+Vegetables,Room temperature,Fresh / Normal,2.672,1,-4.0,Date Passed
+Eggs,Room temperature,Looks or smells unusual,0.049,0,,Check Food
+Fruits,Freezer,Fresh / Normal,129.38,1,-2.0,Date Passed
+Cooked Leftovers,Freezer,Fresh / Normal,31.31,0,,No Reminder Due
+Seafood,Freezer,Fresh / Normal,76.097,1,-4.0,Date Passed
+Cooked Leftovers,Freezer,Fresh / Normal,93.394,1,6.0,Check Food
+Bakery,Freezer,Fresh / Normal,50.42,1,6.0,No Reminder Due
+Eggs,Freezer,Fresh / Normal,94.533,0,,No Reminder Due
+Other,Refrigerator,Fresh / Normal,19.565,1,-4.0,Date Passed
+Beverages,Room temperature,Looks or smells unusual,12.768,1,14.0,Check Food
+Beverages,Freezer,Opened,89.618,1,15.0,Reminder Due Soon
+Dairy,Room temperature,Fresh / Normal,0.017,0,,No Reminder Due
+Seafood,Freezer,Opened,136.436,1,-5.0,Date Passed
+Beverages,Freezer,Cooked / Prepared,45.672,1,8.0,No Reminder Due
+Beverages,Refrigerator,Thawed,3.159,1,10.0,Check Food
+Eggs,Room temperature,Opened,0.089,0,,Check Food
+Dairy,Room temperature,Thawed,0.047,0,,No Reminder Due
+Dairy,Refrigerator,Opened,8.413,0,,Check Food
+Vegetables,Freezer,Opened,128.198,1,2.0,Reminder Due Soon
+Seafood,Freezer,Fresh / Normal,140.365,1,14.0,Check Food
+Eggs,Room temperature,Opened,0.093,0,,Check Food
+Dairy,Room temperature,Thawed,0.075,1,13.0,Reminder Due Soon
+Seafood,Refrigerator,Opened,1.755,1,9.0,Reminder Due Soon
+Other,Freezer,Cooked / Prepared,21.706,0,,No Reminder Due
+Other,Room temperature,Thawed,17.862,0,,No Reminder Due
+Eggs,Refrigerator,Opened,24.089,1,0.0,Check Food
+Cooked Leftovers,Room temperature,Fresh / Normal,0.121,1,6.0,Check Food
+Cooked Leftovers,Refrigerator,Opened,2.534,1,14.0,No Reminder Due
+Vegetables,Refrigerator,Fresh / Normal,6.694,1,6.0,Reminder Due Soon
+Beverages,Room temperature,Fresh / Normal,7.463,0,,No Reminder Due
+Cooked Leftovers,Freezer,Fresh / Normal,118.182,1,10.0,Check Food
+Beverages,Refrigerator,Looks or smells unusual,10.814,1,9.0,Check Food
+Eggs,Room temperature,Fresh / Normal,0.084,1,11.0,Check Food
+Dairy,Refrigerator,Fresh / Normal,1.433,1,-5.0,Date Passed
+Beverages,Room temperature,Opened,23.907,0,,No Reminder Due
+Packaged / Pantry,Room temperature,Fresh / Normal,25.916,0,,No Reminder Due
+Eggs,Room temperature,Thawed,0.08,1,-5.0,Date Passed
+Packaged / Pantry,Room temperature,Thawed,1.615,1,4.0,No Reminder Due
+Vegetables,Freezer,Fresh / Normal,374.993,1,3.0,Check Food
+Bakery,Room temperature,Looks or smells unusual,2.442,1,0.0,Check Food
+Fruits,Refrigerator,Opened,11.051,0,,Check Food
+Beverages,Freezer,Opened,14.466,1,0.0,Reminder Due Soon
+Vegetables,Refrigerator,Opened,10.077,1,0.0,Check Food
+Vegetables,Refrigerator,Fresh / Normal,1.388,1,5.0,No Reminder Due
+Vegetables,Refrigerator,Cooked / Prepared,9.935,0,,Check Food
+Meat & Poultry,Refrigerator,Fresh / Normal,0.273,1,8.0,No Reminder Due
+Meat & Poultry,Room temperature,Looks or smells unusual,0.051,1,3.0,Check Food
+Fruits,Freezer,Looks or smells unusual,84.949,1,1.0,Check Food
+Other,Freezer,Fresh / Normal,11.485,0,,No Reminder Due
+Packaged / Pantry,Refrigerator,Opened,4.554,1,13.0,No Reminder Due
+Dairy,Refrigerator,Fresh / Normal,4.22,0,,No Reminder Due
+Cooked Leftovers,Room temperature,Looks or smells unusual,0.057,0,,Check Food
+Bakery,Refrigerator,Fresh / Normal,3.4,1,8.0,No Reminder Due
+Seafood,Room temperature,Opened,0.03,0,,No Reminder Due
+Eggs,Refrigerator,Looks or smells unusual,27.184,0,,Check Food
+Eggs,Room temperature,Fresh / Normal,0.084,0,,Check Food
+Meat & Poultry,Room temperature,Fresh / Normal,0.024,1,3.0,No Reminder Due
+Fruits,Room temperature,Thawed,6.152,0,,Check Food
+Vegetables,Refrigerator,Opened,3.757,1,0.0,Reminder Due Soon
+Beverages,Refrigerator,Fresh / Normal,2.869,1,12.0,No Reminder Due
+Dairy,Room temperature,Fresh / Normal,0.086,1,0.0,Check Food
+Meat & Poultry,Freezer,Fresh / Normal,275.881,1,9.0,Check Food
+Bakery,Refrigerator,Thawed,2.868,1,6.0,Check Food
+Eggs,Room temperature,Fresh / Normal,0.087,1,8.0,Check Food
+Dairy,Refrigerator,Thawed,0.931,0,,No Reminder Due
+Other,Room temperature,Opened,25.538,1,1.0,Reminder Due Soon
+Other,Freezer,Cooked / Prepared,3.914,1,-5.0,Date Passed
+Cooked Leftovers,Freezer,Fresh / Normal,33.513,0,,No Reminder Due
+Bakery,Room temperature,Fresh / Normal,4.562,0,,Check Food
+Meat & Poultry,Freezer,Thawed,208.504,1,-4.0,Date Passed
+Cooked Leftovers,Room temperature,Cooked / Prepared,0.08,1,-4.0,Date Passed
+Beverages,Refrigerator,Opened,9.058,0,,Check Food
+Other,Freezer,Looks or smells unusual,5.792,1,12.0,Check Food
+Other,Freezer,Fresh / Normal,17.122,0,,No Reminder Due
+Dairy,Room temperature,Fresh / Normal,0.096,1,5.0,Check Food
+Fruits,Freezer,Opened,209.409,0,,Reminder Due Soon
+Dairy,Refrigerator,Fresh / Normal,0.064,1,8.0,No Reminder Due
+Packaged / Pantry,Room temperature,Looks or smells unusual,9.753,1,12.0,Check Food
+Eggs,Freezer,Fresh / Normal,19.381,1,9.0,No Reminder Due
+Other,Refrigerator,Fresh / Normal,4.889,0,,No Reminder Due
+Cooked Leftovers,Freezer,Fresh / Normal,79.756,1,3.0,Reminder Due Soon
+Beverages,Refrigerator,Fresh / Normal,9.9,0,,Check Food
+Other,Room temperature,Fresh / Normal,10.317,1,9.0,No Reminder Due
+Fruits,Room temperature,Opened,3.219,1,-5.0,Date Passed
+Dairy,Room temperature,Opened,0.069,0,,Reminder Due Soon
+Meat & Poultry,Room temperature,Opened,0.109,1,8.0,Check Food
+Other,Room temperature,Cooked / Prepared,8.255,1,0.0,Reminder Due Soon
+Seafood,Freezer,Opened,19.53,0,,No Reminder Due
+Seafood,Room temperature,Fresh / Normal,0.043,1,-3.0,Date Passed
+Beverages,Room temperature,Fresh / Normal,6.662,1,8.0,No Reminder Due
+Eggs,Room temperature,Cooked / Prepared,0.049,0,,No Reminder Due
+Vegetables,Room temperature,Thawed,3.642,1,5.0,Reminder Due Soon
+Fruits,Room temperature,Thawed,3.724,0,,No Reminder Due
+Meat & Poultry,Room temperature,Fresh / Normal,0.105,0,,Check Food
+Vegetables,Freezer,Opened,327.71,0,,Check Food
+Bakery,Freezer,Fresh / Normal,64.556,0,,No Reminder Due
+Packaged / Pantry,Room temperature,Fresh / Normal,26.52,0,,No Reminder Due
+Other,Freezer,Fresh / Normal,16.873,1,15.0,No Reminder Due
+Cooked Leftovers,Refrigerator,Thawed,1.145,0,,No Reminder Due
+Vegetables,Freezer,Fresh / Normal,91.94,0,,No Reminder Due
+Other,Refrigerator,Fresh / Normal,19.703,0,,No Reminder Due
+Beverages,Freezer,Cooked / Prepared,12.365,1,10.0,No Reminder Due
+Beverages,Refrigerator,Looks or smells unusual,10.232,0,,Check Food
+Other,Refrigerator,Opened,5.617,1,-1.0,Date Passed
+Seafood,Refrigerator,Fresh / Normal,2.068,0,,Check Food
+Packaged / Pantry,Freezer,Fresh / Normal,261.461,0,,Check Food
+Bakery,Refrigerator,Cooked / Prepared,9.845,1,4.0,Check Food
+Cooked Leftovers,Freezer,Opened,10.453,0,,No Reminder Due
+Beverages,Refrigerator,Fresh / Normal,4.332,1,-3.0,Date Passed
+Eggs,Room temperature,Fresh / Normal,0.023,0,,No Reminder Due
+Vegetables,Refrigerator,Opened,3.663,1,15.0,No Reminder Due
+Beverages,Refrigerator,Fresh / Normal,10.419,0,,Check Food
+Fruits,Freezer,Looks or smells unusual,164.643,1,8.0,Check Food
+Eggs,Freezer,Thawed,104.018,0,,No Reminder Due
+Seafood,Freezer,Thawed,92.503,1,3.0,Check Food
+Dairy,Refrigerator,Thawed,1.75,1,8.0,Reminder Due Soon
+Packaged / Pantry,Refrigerator,Fresh / Normal,6.012,1,-4.0,Date Passed
+Beverages,Freezer,Fresh / Normal,18.732,1,8.0,No Reminder Due
+Meat & Poultry,Freezer,Opened,140.821,1,15.0,Reminder Due Soon
+Packaged / Pantry,Room temperature,Fresh / Normal,8.284,0,,No Reminder Due
+Vegetables,Freezer,Cooked / Prepared,344.49,0,,Check Food
+Eggs,Refrigerator,Fresh / Normal,5.693,0,,No Reminder Due
+Eggs,Room temperature,Looks or smells unusual,0.04,0,,Check Food
+Packaged / Pantry,Freezer,Thawed,157.929,1,-4.0,Date Passed
+Dairy,Room temperature,Fresh / Normal,0.047,1,15.0,No Reminder Due
+Vegetables,Freezer,Looks or smells unusual,24.079,1,-1.0,Date Passed
+Beverages,Freezer,Fresh / Normal,4.962,1,6.0,No Reminder Due
+Other,Refrigerator,Fresh / Normal,6.483,0,,No Reminder Due
+Packaged / Pantry,Room temperature,Thawed,11.697,1,7.0,No Reminder Due
+Other,Refrigerator,Opened,7.643,1,11.0,No Reminder Due
+Beverages,Freezer,Opened,1.97,0,,No Reminder Due
+Beverages,Freezer,Opened,30.452,0,,No Reminder Due
+Cooked Leftovers,Room temperature,Fresh / Normal,0.079,0,,Reminder Due Soon
+Eggs,Room temperature,Fresh / Normal,0.117,1,-1.0,Date Passed
+Meat & Poultry,Refrigerator,Fresh / Normal,0.905,1,-3.0,Date Passed
+Meat & Poultry,Room temperature,Fresh / Normal,0.132,1,1.0,Check Food
+Vegetables,Room temperature,Thawed,4.146,0,,Check Food
+Other,Freezer,Fresh / Normal,13.024,1,-3.0,Date Passed
+Fruits,Freezer,Fresh / Normal,351.877,0,,Check Food
+Beverages,Room temperature,Cooked / Prepared,4.622,1,10.0,No Reminder Due
+Bakery,Room temperature,Fresh / Normal,3.025,1,8.0,Reminder Due Soon
+Fruits,Refrigerator,Fresh / Normal,4.686,0,,No Reminder Due
+Beverages,Room temperature,Opened,21.935,0,,No Reminder Due
+Packaged / Pantry,Refrigerator,Cooked / Prepared,5.4,1,10.0,Reminder Due Soon
+Dairy,Freezer,Looks or smells unusual,0.501,1,14.0,Check Food
+Dairy,Refrigerator,Cooked / Prepared,6.698,1,15.0,Reminder Due Soon
+Beverages,Freezer,Opened,55.772,1,2.0,Reminder Due Soon
+Dairy,Freezer,Fresh / Normal,61.136,0,,No Reminder Due
+Fruits,Freezer,Thawed,211.249,0,,Reminder Due Soon
+Eggs,Refrigerator,Cooked / Prepared,8.881,1,4.0,No Reminder Due
+Meat & Poultry,Refrigerator,Looks or smells unusual,3.2,0,,Check Food
+Dairy,Refrigerator,Thawed,2.38,1,-3.0,Date Passed
+Bakery,Freezer,Cooked / Prepared,3.463,1,6.0,No Reminder Due
+Beverages,Freezer,Fresh / Normal,76.684,0,,Reminder Due Soon
+Seafood,Freezer,Thawed,89.499,1,15.0,Reminder Due Soon
+Meat & Poultry,Freezer,Opened,17.097,0,,No Reminder Due
+Fruits,Room temperature,Opened,6.963,0,,Check Food
+Other,Freezer,Fresh / Normal,1.775,1,-5.0,Date Passed
+Fruits,Room temperature,Fresh / Normal,1.842,0,,No Reminder Due
+Meat & Poultry,Room temperature,Fresh / Normal,0.023,1,11.0,No Reminder Due
+Beverages,Refrigerator,Fresh / Normal,0.51,1,10.0,No Reminder Due
+Other,Freezer,Thawed,3.878,1,5.0,No Reminder Due
+Fruits,Room temperature,Fresh / Normal,5.187,0,,Check Food
+Fruits,Freezer,Fresh / Normal,204.268,1,0.0,Reminder Due Soon
+Meat & Poultry,Room temperature,Thawed,0.09,1,-5.0,Date Passed
+Vegetables,Refrigerator,Cooked / Prepared,10.299,1,6.0,Check Food
+Cooked Leftovers,Freezer,Thawed,131.621,1,12.0,Check Food
+Meat & Poultry,Refrigerator,Fresh / Normal,0.946,0,,No Reminder Due
+Other,Refrigerator,Opened,27.185,0,,No Reminder Due
+Meat & Poultry,Freezer,Looks or smells unusual,21.79,1,-5.0,Date Passed
+Dairy,Room temperature,Thawed,0.004,1,15.0,No Reminder Due
+Beverages,Freezer,Fresh / Normal,121.958,1,13.0,Check Food
+Beverages,Freezer,Fresh / Normal,20.984,0,,No Reminder Due
+Vegetables,Room temperature,Fresh / Normal,2.375,0,,No Reminder Due
+Vegetables,Room temperature,Thawed,3.944,0,,Reminder Due Soon
+Packaged / Pantry,Freezer,Cooked / Prepared,116.481,1,1.0,Reminder Due Soon
+Dairy,Room temperature,Looks or smells unusual,0.068,1,4.0,Check Food
+Packaged / Pantry,Refrigerator,Cooked / Prepared,0.73,1,15.0,No Reminder Due
+Beverages,Room temperature,Cooked / Prepared,22.267,0,,No Reminder Due
+Eggs,Freezer,Fresh / Normal,232.973,1,5.0,Check Food
+Bakery,Refrigerator,Thawed,1.024,0,,No Reminder Due
+Bakery,Freezer,Fresh / Normal,60.096,1,-3.0,Date Passed
+Meat & Poultry,Room temperature,Thawed,0.007,0,,No Reminder Due
+Fruits,Freezer,Cooked / Prepared,340.582,1,2.0,Check Food
+Meat & Poultry,Room temperature,Opened,0.127,1,-5.0,Date Passed
+Fruits,Freezer,Fresh / Normal,351.352,1,7.0,Check Food
+Bakery,Room temperature,Fresh / Normal,0.408,1,9.0,No Reminder Due
+Other,Refrigerator,Cooked / Prepared,24.593,1,3.0,No Reminder Due
+Fruits,Room temperature,Fresh / Normal,6.094,0,,Check Food
+Dairy,Room temperature,Fresh / Normal,0.073,1,11.0,Reminder Due Soon
+Meat & Poultry,Room temperature,Cooked / Prepared,0.125,1,7.0,Check Food
+Eggs,Room temperature,Fresh / Normal,0.084,1,11.0,Check Food
+Fruits,Room temperature,Fresh / Normal,7.483,1,2.0,Check Food
+Fruits,Refrigerator,Fresh / Normal,10.793,0,,Check Food
+Fruits,Freezer,Looks or smells unusual,257.203,1,15.0,Check Food
+Fruits,Room temperature,Fresh / Normal,6.675,1,2.0,Check Food
+Bakery,Freezer,Fresh / Normal,4.567,1,2.0,Reminder Due Soon
+Fruits,Freezer,Fresh / Normal,94.972,1,1.0,Reminder Due Soon
+Cooked Leftovers,Room temperature,Fresh / Normal,0.077,1,12.0,Reminder Due Soon
+Dairy,Freezer,Opened,92.491,1,11.0,Check Food
+Fruits,Refrigerator,Opened,4.178,0,,No Reminder Due
+Meat & Poultry,Refrigerator,Cooked / Prepared,1.363,1,4.0,No Reminder Due
+Seafood,Refrigerator,Fresh / Normal,1.728,0,,Reminder Due Soon
+Beverages,Room temperature,Fresh / Normal,5.884,0,,No Reminder Due
+Seafood,Refrigerator,Fresh / Normal,2.741,1,13.0,Check Food
+Meat & Poultry,Freezer,Opened,43.786,0,,No Reminder Due
+Seafood,Room temperature,Fresh / Normal,0.032,0,,No Reminder Due
+Eggs,Freezer,Cooked / Prepared,126.822,1,3.0,No Reminder Due
+Dairy,Freezer,Opened,65.929,0,,No Reminder Due
+Bakery,Room temperature,Cooked / Prepared,3.73,1,13.0,Reminder Due Soon
+Bakery,Refrigerator,Thawed,2.742,1,1.0,Check Food
+Seafood,Room temperature,Thawed,0.057,0,,No Reminder Due
+Vegetables,Refrigerator,Fresh / Normal,3.896,1,12.0,No Reminder Due
+Cooked Leftovers,Room temperature,Fresh / Normal,0.037,0,,No Reminder Due
+Other,Refrigerator,Cooked / Prepared,11.324,0,,No Reminder Due
+Dairy,Room temperature,Fresh / Normal,0.012,1,9.0,No Reminder Due
+Bakery,Room temperature,Cooked / Prepared,2.737,1,3.0,No Reminder Due
+Packaged / Pantry,Freezer,Cooked / Prepared,219.837,1,-1.0,Date Passed
+Eggs,Freezer,Fresh / Normal,109.132,0,,No Reminder Due
+Eggs,Room temperature,Thawed,0.072,1,2.0,Reminder Due Soon
+Bakery,Refrigerator,Fresh / Normal,4.619,0,,No Reminder Due
+Fruits,Refrigerator,Fresh / Normal,9.811,1,10.0,Check Food
+Meat & Poultry,Refrigerator,Fresh / Normal,2.573,1,9.0,Check Food
+Fruits,Refrigerator,Cooked / Prepared,8.748,1,-1.0,Date Passed
+Cooked Leftovers,Room temperature,Fresh / Normal,0.018,1,9.0,No Reminder Due
+Bakery,Freezer,Opened,45.848,1,0.0,Reminder Due Soon
+Cooked Leftovers,Freezer,Looks or smells unusual,65.62,0,,Check Food
+Vegetables,Freezer,Fresh / Normal,97.177,0,,No Reminder Due
+Vegetables,Refrigerator,Cooked / Prepared,1.642,0,,No Reminder Due
+Vegetables,Refrigerator,Looks or smells unusual,7.683,1,3.0,Check Food
+Bakery,Freezer,Fresh / Normal,37.546,0,,No Reminder Due
+Vegetables,Freezer,Fresh / Normal,336.471,1,10.0,Check Food
+Bakery,Refrigerator,Opened,1.199,1,-3.0,Date Passed
+Fruits,Room temperature,Fresh / Normal,5.625,1,1.0,Check Food
+Bakery,Room temperature,Opened,3.094,1,11.0,Reminder Due Soon
+Beverages,Refrigerator,Fresh / Normal,9.426,0,,Check Food
+Seafood,Room temperature,Fresh / Normal,0.017,1,7.0,No Reminder Due
+Dairy,Room temperature,Opened,0.002,1,12.0,No Reminder Due
+Vegetables,Room temperature,Fresh / Normal,0.277,1,9.0,No Reminder Due
+Packaged / Pantry,Refrigerator,Opened,1.385,0,,No Reminder Due
+Dairy,Room temperature,Looks or smells unusual,0.126,1,4.0,Check Food
+Dairy,Refrigerator,Cooked / Prepared,0.67,1,1.0,Reminder Due Soon
+Beverages,Refrigerator,Fresh / Normal,7.909,0,,Check Food
+Dairy,Freezer,Thawed,14.852,1,14.0,No Reminder Due
+Eggs,Room temperature,Opened,0.01,0,,No Reminder Due
+Bakery,Room temperature,Fresh / Normal,3.991,0,,Reminder Due Soon
+Cooked Leftovers,Freezer,Looks or smells unusual,27.013,0,,Check Food
+Bakery,Room temperature,Opened,2.318,0,,No Reminder Due
+Packaged / Pantry,Refrigerator,Fresh / Normal,9.782,0,,Check Food
+Meat & Poultry,Room temperature,Thawed,0.007,0,,No Reminder Due
+Other,Refrigerator,Cooked / Prepared,11.828,0,,No Reminder Due
+Eggs,Room temperature,Thawed,0.026,1,7.0,No Reminder Due
+Bakery,Freezer,Fresh / Normal,99.771,1,-4.0,Date Passed
+Vegetables,Room temperature,Fresh / Normal,3.986,1,-4.0,Date Passed
+Meat & Poultry,Refrigerator,Fresh / Normal,0.687,0,,No Reminder Due
+Other,Refrigerator,Fresh / Normal,20.637,1,5.0,No Reminder Due
+Vegetables,Refrigerator,Looks or smells unusual,4.635,1,0.0,Check Food
+Eggs,Room temperature,Cooked / Prepared,0.082,0,,Reminder Due Soon
+Dairy,Refrigerator,Thawed,2.169,1,3.0,Check Food
+Seafood,Freezer,Looks or smells unusual,20.435,1,-3.0,Date Passed
+Cooked Leftovers,Room temperature,Cooked / Prepared,0.021,0,,No Reminder Due
+Bakery,Freezer,Thawed,12.569,1,3.0,No Reminder Due
+Bakery,Refrigerator,Opened,0.158,0,,No Reminder Due
+Meat & Poultry,Room temperature,Thawed,0.128,0,,Check Food
+Packaged / Pantry,Freezer,Fresh / Normal,258.101,0,,Check Food
+Eggs,Freezer,Cooked / Prepared,58.173,0,,No Reminder Due
+Other,Freezer,Cooked / Prepared,25.718,1,14.0,No Reminder Due
+Beverages,Room temperature,Fresh / Normal,25.919,1,-3.0,Date Passed
+Cooked Leftovers,Freezer,Opened,33.443,0,,No Reminder Due
+Meat & Poultry,Room temperature,Thawed,0.037,1,6.0,No Reminder Due
+Beverages,Room temperature,Cooked / Prepared,16.365,0,,No Reminder Due
+Eggs,Room temperature,Opened,0.129,0,,Check Food
+Dairy,Room temperature,Fresh / Normal,0.0,1,5.0,No Reminder Due
+Beverages,Refrigerator,Fresh / Normal,7.007,1,9.0,Check Food
+Vegetables,Refrigerator,Looks or smells unusual,4.628,1,11.0,Check Food
+Fruits,Room temperature,Cooked / Prepared,7.697,1,3.0,Check Food
+Dairy,Freezer,Fresh / Normal,81.307,1,4.0,Reminder Due Soon
+Dairy,Room temperature,Fresh / Normal,0.066,1,13.0,Reminder Due Soon
+Seafood,Room temperature,Fresh / Normal,0.055,0,,No Reminder Due
+Packaged / Pantry,Freezer,Looks or smells unusual,60.283,0,,Check Food
+Seafood,Room temperature,Opened,0.092,1,3.0,Check Food
+Beverages,Room temperature,Cooked / Prepared,28.078,1,14.0,No Reminder Due
+Dairy,Freezer,Fresh / Normal,102.186,0,,Check Food
+Meat & Poultry,Freezer,Fresh / Normal,156.703,0,,Reminder Due Soon
+Eggs,Room temperature,Fresh / Normal,0.017,1,12.0,No Reminder Due
+Meat & Poultry,Refrigerator,Fresh / Normal,1.708,1,15.0,Reminder Due Soon
+Eggs,Freezer,Looks or smells unusual,140.742,1,11.0,Check Food
+Seafood,Freezer,Looks or smells unusual,30.311,0,,Check Food
+Other,Refrigerator,Opened,3.778,0,,No Reminder Due
+Dairy,Room temperature,Fresh / Normal,0.062,1,14.0,No Reminder Due
+Meat & Poultry,Freezer,Fresh / Normal,76.189,0,,No Reminder Due
+Eggs,Refrigerator,Thawed,0.248,1,2.0,Reminder Due Soon
+Eggs,Refrigerator,Fresh / Normal,6.037,0,,No Reminder Due
+Other,Refrigerator,Cooked / Prepared,0.784,1,10.0,No Reminder Due
+Other,Room temperature,Opened,18.066,1,8.0,No Reminder Due
+Seafood,Room temperature,Cooked / Prepared,0.017,0,,No Reminder Due
+Other,Refrigerator,Fresh / Normal,11.914,0,,No Reminder Due
+Vegetables,Freezer,Opened,272.832,1,2.0,Check Food
+Other,Room temperature,Fresh / Normal,12.581,0,,No Reminder Due
+Seafood,Freezer,Fresh / Normal,93.563,0,,Check Food
+Dairy,Room temperature,Thawed,0.034,1,1.0,Reminder Due Soon
+Vegetables,Refrigerator,Cooked / Prepared,3.623,1,-5.0,Date Passed
+Cooked Leftovers,Refrigerator,Fresh / Normal,2.163,0,,No Reminder Due
+Bakery,Freezer,Fresh / Normal,29.725,0,,No Reminder Due
+Packaged / Pantry,Refrigerator,Opened,5.83,1,5.0,Reminder Due Soon
+Packaged / Pantry,Refrigerator,Looks or smells unusual,9.759,1,8.0,Check Food
+Beverages,Refrigerator,Fresh / Normal,4.385,1,-1.0,Date Passed
+Seafood,Refrigerator,Fresh / Normal,2.15,0,,Check Food
+Seafood,Freezer,Fresh / Normal,56.572,0,,No Reminder Due
+Other,Room temperature,Opened,16.189,1,9.0,No Reminder Due
+Other,Room temperature,Opened,17.15,1,0.0,Reminder Due Soon
+Eggs,Room temperature,Cooked / Prepared,0.068,1,0.0,Reminder Due Soon
+Fruits,Freezer,Looks or smells unusual,143.576,1,5.0,Check Food
+Vegetables,Freezer,Cooked / Prepared,326.421,1,11.0,Check Food
+Vegetables,Room temperature,Thawed,3.323,0,,Reminder Due Soon
+Beverages,Refrigerator,Fresh / Normal,2.27,1,-2.0,Date Passed
+Other,Room temperature,Opened,9.008,1,0.0,Reminder Due Soon
+Bakery,Freezer,Fresh / Normal,91.786,0,,Check Food
+Bakery,Freezer,Looks or smells unusual,96.163,0,,Check Food
+Seafood,Refrigerator,Fresh / Normal,2.726,1,-3.0,Date Passed
+Eggs,Room temperature,Fresh / Normal,0.104,1,12.0,Check Food
+Meat & Poultry,Room temperature,Fresh / Normal,0.018,0,,No Reminder Due
+Meat & Poultry,Refrigerator,Looks or smells unusual,2.098,1,6.0,Check Food
+Seafood,Freezer,Opened,128.698,1,14.0,Check Food
+Other,Room temperature,Opened,20.053,1,13.0,No Reminder Due
+Dairy,Refrigerator,Looks or smells unusual,4.083,0,,Check Food
+Other,Freezer,Fresh / Normal,2.193,1,-2.0,Date Passed
+Dairy,Refrigerator,Fresh / Normal,1.55,0,,No Reminder Due
+Vegetables,Room temperature,Cooked / Prepared,1.283,0,,No Reminder Due
+Vegetables,Refrigerator,Cooked / Prepared,6.355,1,-5.0,Date Passed
+Dairy,Room temperature,Looks or smells unusual,0.089,0,,Check Food
+Packaged / Pantry,Freezer,Fresh / Normal,210.589,1,14.0,Check Food
+Packaged / Pantry,Freezer,Fresh / Normal,280.736,0,,Check Food
+Packaged / Pantry,Refrigerator,Fresh / Normal,4.732,0,,No Reminder Due
+Beverages,Room temperature,Fresh / Normal,14.175,1,4.0,No Reminder Due
+Eggs,Refrigerator,Fresh / Normal,5.634,1,5.0,No Reminder Due
+Eggs,Room temperature,Fresh / Normal,0.033,0,,No Reminder Due
+Other,Room temperature,Opened,0.258,0,,No Reminder Due
+Beverages,Freezer,Cooked / Prepared,39.991,1,-3.0,Date Passed
+Cooked Leftovers,Room temperature,Fresh / Normal,0.029,1,9.0,No Reminder Due
+Beverages,Room temperature,Fresh / Normal,20.753,0,,No Reminder Due
+Vegetables,Freezer,Looks or smells unusual,343.567,1,1.0,Check Food
+Dairy,Refrigerator,Fresh / Normal,6.129,0,,Reminder Due Soon
+Cooked Leftovers,Refrigerator,Fresh / Normal,2.743,1,13.0,No Reminder Due
+Dairy,Freezer,Fresh / Normal,135.159,0,,Check Food
+Beverages,Refrigerator,Cooked / Prepared,6.362,0,,Reminder Due Soon
+Beverages,Freezer,Fresh / Normal,92.137,1,9.0,Check Food
+Vegetables,Refrigerator,Cooked / Prepared,9.274,1,-1.0,Date Passed
+Meat & Poultry,Freezer,Cooked / Prepared,47.146,1,2.0,Reminder Due Soon
+Bakery,Room temperature,Thawed,3.268,0,,Reminder Due Soon
+Cooked Leftovers,Room temperature,Fresh / Normal,0.007,0,,No Reminder Due
+Meat & Poultry,Freezer,Thawed,57.488,1,13.0,No Reminder Due
+Bakery,Room temperature,Cooked / Prepared,0.739,0,,No Reminder Due
+Dairy,Refrigerator,Fresh / Normal,10.091,1,4.0,Check Food
+Eggs,Freezer,Looks or smells unusual,34.454,0,,Check Food
+Vegetables,Freezer,Fresh / Normal,162.022,1,2.0,Reminder Due Soon
+Cooked Leftovers,Refrigerator,Fresh / Normal,4.068,1,-1.0,Date Passed
+Bakery,Refrigerator,Fresh / Normal,4.737,1,12.0,No Reminder Due
+Meat & Poultry,Freezer,Fresh / Normal,90.039,1,2.0,Reminder Due Soon
+Eggs,Refrigerator,Opened,14.427,1,15.0,No Reminder Due
+Dairy,Room temperature,Fresh / Normal,0.06,0,,No Reminder Due
+Eggs,Refrigerator,Opened,18.39,0,,Reminder Due Soon
+Packaged / Pantry,Room temperature,Cooked / Prepared,15.114,1,9.0,No Reminder Due
+Vegetables,Freezer,Looks or smells unusual,316.919,1,12.0,Check Food
+Cooked Leftovers,Room temperature,Thawed,0.091,0,,Check Food
+Meat & Poultry,Freezer,Opened,84.782,1,1.0,Reminder Due Soon
+Packaged / Pantry,Freezer,Thawed,96.167,1,14.0,No Reminder Due
+Seafood,Refrigerator,Thawed,2.099,0,,Check Food
+Meat & Poultry,Freezer,Opened,227.531,1,6.0,Check Food
+Other,Freezer,Fresh / Normal,0.755,0,,No Reminder Due
+Vegetables,Freezer,Cooked / Prepared,301.062,1,8.0,Check Food
+Eggs,Room temperature,Looks or smells unusual,0.023,0,,Check Food
+Bakery,Refrigerator,Fresh / Normal,4.623,0,,No Reminder Due
+Beverages,Refrigerator,Fresh / Normal,7.617,1,1.0,Check Food
+Beverages,Room temperature,Fresh / Normal,4.588,0,,No Reminder Due
+Other,Freezer,Fresh / Normal,28.566,0,,No Reminder Due
+Seafood,Freezer,Opened,132.37,0,,Check Food
+Bakery,Freezer,Thawed,94.067,1,8.0,Check Food
+Dairy,Freezer,Opened,75.237,1,1.0,Reminder Due Soon
+Eggs,Refrigerator,Fresh / Normal,0.859,1,11.0,No Reminder Due
+Eggs,Refrigerator,Cooked / Prepared,15.096,1,11.0,No Reminder Due
+Beverages,Refrigerator,Fresh / Normal,9.262,1,-5.0,Date Passed
+Eggs,Room temperature,Thawed,0.126,1,1.0,Check Food
+Beverages,Refrigerator,Fresh / Normal,10.435,1,9.0,Check Food
+Dairy,Room temperature,Opened,0.07,1,-2.0,Date Passed
+Other,Refrigerator,Fresh / Normal,0.549,0,,No Reminder Due
+Vegetables,Room temperature,Opened,4.359,1,-2.0,Date Passed
+Cooked Leftovers,Freezer,Fresh / Normal,136.269,0,,Check Food
+Cooked Leftovers,Refrigerator,Opened,3.204,0,,Reminder Due Soon
+Vegetables,Freezer,Opened,356.623,1,15.0,Check Food
+Vegetables,Refrigerator,Opened,4.096,0,,No Reminder Due
+Meat & Poultry,Freezer,Fresh / Normal,240.192,0,,Check Food
+Eggs,Refrigerator,Cooked / Prepared,8.894,0,,No Reminder Due
+Bakery,Freezer,Fresh / Normal,134.248,0,,Check Food
+Dairy,Freezer,Fresh / Normal,136.644,1,-1.0,Date Passed
+Meat & Poultry,Refrigerator,Fresh / Normal,0.024,1,15.0,No Reminder Due
+Other,Room temperature,Opened,22.378,1,2.0,Reminder Due Soon
+Other,Room temperature,Cooked / Prepared,18.257,0,,No Reminder Due
+Seafood,Room temperature,Cooked / Prepared,0.106,1,2.0,Check Food
+Bakery,Room temperature,Fresh / Normal,5.597,1,10.0,Check Food
+Eggs,Refrigerator,Thawed,0.79,1,4.0,No Reminder Due
+Eggs,Room temperature,Opened,0.093,0,,Check Food
+Packaged / Pantry,Freezer,Looks or smells unusual,231.122,1,8.0,Check Food
+Eggs,Room temperature,Opened,0.003,1,0.0,Reminder Due Soon
+Vegetables,Refrigerator,Opened,4.05,1,-2.0,Date Passed
+Cooked Leftovers,Refrigerator,Thawed,1.158,1,-1.0,Date Passed
+Eggs,Freezer,Opened,151.074,1,5.0,Reminder Due Soon
+Eggs,Room temperature,Opened,0.01,0,,No Reminder Due
+Other,Freezer,Opened,12.807,1,13.0,No Reminder Due
